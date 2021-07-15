@@ -9,14 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "flexsearch": "^0.7.2",
     "next": "11.0.1",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react": "^18.0.0-alpha-464f27572-20210713",
+    "react-arrow-key-navigation-hook": "^1.0.2",
+    "react-dom": "^18.0.0-alpha-464f27572-20210713",
+    "react-speech-kit": "^3.0.1",
+    "react-use-promise": "^0.3.1",
+    "use-sound": "^4.0.1"
   },
   "devDependencies": {
-    "@types/react": "17.0.14",
+    "@types/react": "^17.0.14",
+    "@types/webmidi": "^2.0.6",
     "eslint": "7.30.0",
     "eslint-config-next": "11.0.1",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "prettier": "^2.3.2",
     "typescript": "4.3.5"
   }
 }

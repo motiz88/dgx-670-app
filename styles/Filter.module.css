@@ -1,0 +1,53 @@
+.filterResult {
+  padding: 1rem;
+  margin: 0.5rem;
+  cursor: pointer;
+  flex-grow: 1;
+}
+
+.resultsVoiceName {
+  font-size: 2rem;
+}
+
+.filterResults {
+  flex: 1;
+  overflow: scroll;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.filterInput {
+  flex: 1;
+  display: block;
+  font-size: 2rem;
+  border: 0.5rem solid;
+  padding: 1rem;
+  margin: 0.5rem;
+}
+
+.filterInputArea {
+  display: flex;
+  flex-direction: row;
+}
+
+.filterInput-listening {
+  border-color: blue;
+}
+
+.pending {
+  opacity: 0.7;
+
+  /**
+   * Delay the pending UI by 0.4s so it
+   * doesn't show if we render fast enough.
+   */
+  transition: opacity 0.2s 0.4s linear;
+  transition: opacity 0.2s 0.4s linear;
+}
+
+.done {
+  opacity: 1;
+  transition: opacity 0s 0s linear;
+}
