@@ -23,7 +23,6 @@ export default function MidiAccessProvider({
       return;
     }
     const listener = () => {
-      console.log(midiAccess);
       setMidiPorts({
         inputs: new Map(midiAccess.inputs),
         outputs: new Map(midiAccess.outputs),
