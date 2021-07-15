@@ -1,0 +1,17 @@
+.modalContent {
+  border: 1px solid black;
+  font-size: 2rem;
+
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+  right: 2rem;
+  bottom: 2rem;
+  border: 0.05rem solid #ccc;
+  background: rgba(255, 255, 255, 0.85);
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  border-radius: 1rem;
+  outline: none;
+  padding: 1rem;
+}

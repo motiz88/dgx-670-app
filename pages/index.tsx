@@ -13,6 +13,7 @@ import FilterResults from '../components/FilterResults';
 import FilterInputArea from '../components/FilterInputArea';
 import useSpeechSynthesis from '../utils/useSpeechSynthesis';
 import usePrevious from '../utils/usePrevious';
+import PermissionsOverlay from '../components/PermissionsOverlay';
 
 export default function Home() {
   const [query] = useState('piano');
@@ -75,6 +76,7 @@ export default function Home() {
         }}
         isLoading={isPending}
       />
+      <PermissionsOverlay />
     </div>
   );
 }
