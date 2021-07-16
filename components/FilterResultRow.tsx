@@ -13,9 +13,9 @@ function FilterResultRow(
   forwardedRef: ForwardedRef<{ focus(): void }>
 ) {
   const ref = useRef<HTMLButtonElement>(null);
-  useFocusOnHover(ref.current);
+  useFocusOnHover(ref);
   const baseNote = 0x3c + ((voice.lsb + voice.msb + voice.pc1Based) % 12);
-  const { announce } = useAnnounce(ref.current, [
+  const { announce } = useAnnounce(ref, [
     { type: 'program', msb: voice.msb, lsb: voice.lsb, pc: voice.pc1Based - 1 },
     {
       type: 'speak',

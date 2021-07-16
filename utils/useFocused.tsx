@@ -1,7 +1,7 @@
-import { useEffect, useState } from 'react';
+import { RefObject, useEffect, useState } from 'react';
 
 function useFocused<T extends HTMLElement = HTMLElement>(
-  element: null | T
+  ref: RefObject<T>
 ): boolean {
   const [value, setValue] = useState<boolean>(false);
 
@@ -9,6 +9,7 @@ function useFocused<T extends HTMLElement = HTMLElement>(
   const handleBlur = () => setValue(false);
 
   useEffect(() => {
+    const element = ref.current;
     if (element) {
       element.addEventListener('focus', handleFocus);
       element.addEventListener('blur', handleBlur);
@@ -18,7 +19,7 @@ function useFocused<T extends HTMLElement = HTMLElement>(
         element.removeEventListener('blur', handleBlur);
       };
     }
-  }, [element]);
+  }, [ref]);
 
   return value;
 }

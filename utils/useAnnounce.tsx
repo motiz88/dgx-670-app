@@ -1,4 +1,4 @@
-import { useCallback, useContext, useEffect } from 'react';
+import { RefObject, useCallback, useContext, useEffect, useRef } from 'react';
 import AnnouncementsContext, {
   Announcement,
 } from '../components/AnnouncementsContext';
@@ -7,13 +7,13 @@ import usePrevious from './usePrevious';
 
 export default function useAnnounce(
   // If specified, the element to announce on focus
-  element?: null | HTMLElement,
+  ref?: undefined | null | RefObject<HTMLElement>,
   // If specified, the default announcement(s)
   defaultAnnouncements?: undefined | Announcement | Announcement[]
 ) {
   const api = useContext(AnnouncementsContext);
-
-  const isFocused = useFocused(element ?? null);
+  const nullRef = useRef<HTMLElement>(null);
+  const isFocused = useFocused(ref ?? nullRef);
   const wasFocused = usePrevious(isFocused);
 
   const announceNow = useCallback(

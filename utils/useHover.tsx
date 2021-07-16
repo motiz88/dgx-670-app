@@ -1,7 +1,7 @@
-import { useEffect, useState } from 'react';
+import { RefObject, useEffect, useState } from 'react';
 
 function useHover<T extends HTMLElement = HTMLElement>(
-  element: null | T
+  ref: RefObject<T>
 ): boolean {
   const [value, setValue] = useState<boolean>(false);
 
@@ -9,6 +9,7 @@ function useHover<T extends HTMLElement = HTMLElement>(
   const handleMouseLeave = () => setValue(false);
 
   useEffect(() => {
+    const element = ref.current;
     if (element) {
       element.addEventListener('mouseenter', handleMouseEnter);
       element.addEventListener('mouseleave', handleMouseLeave);
@@ -18,7 +19,7 @@ function useHover<T extends HTMLElement = HTMLElement>(
         element.removeEventListener('mouseleave', handleMouseLeave);
       };
     }
-  }, [element]);
+  }, [ref]);
 
   return value;
 }

@@ -1,19 +1,19 @@
-import { useEffect, useState } from 'react';
+import { RefObject, useEffect, useState } from 'react';
 import useOnScreen from './useOnScreen';
 
 export default function useAutoFocus(
-  element: null | HTMLElement,
+  ref: RefObject<HTMLElement>,
   rootMargin: string = '0px'
 ) {
-  const isOnScreen = useOnScreen(element, rootMargin);
+  const isOnScreen = useOnScreen(ref, rootMargin);
   const [isFirst, setIsFirst] = useState(true);
   useEffect(() => {
     if (!isFirst) {
       return;
     }
-    if (element && isOnScreen) {
+    if (ref.current && isOnScreen) {
       setIsFirst(false);
-      element.focus();
+      ref.current.focus();
     }
-  }, [isOnScreen, isFirst, element]);
+  }, [isOnScreen, isFirst, ref]);
 }

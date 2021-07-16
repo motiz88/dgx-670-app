@@ -1,6 +1,7 @@
 import {
   ForwardedRef,
   forwardRef,
+  RefObject,
   useCallback,
   useEffect,
   useImperativeHandle,
@@ -28,16 +29,16 @@ function FilterInputArea(
   const [query, setQuery] = useState('piano');
   const ref = useRef<HTMLFormElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
-  useAutoFocus(inputRef.current);
-  useSelectOnFocus(inputRef.current);
-  useFocusOnHover(ref.current, inputRef.current);
+  useAutoFocus(inputRef);
+  useSelectOnFocus(inputRef);
+  useFocusOnHover(ref, inputRef);
   useImperativeHandle(forwardedRef, () => ({
     focus() {
       inputRef.current?.focus();
     },
   }));
   useAnnounce(
-    inputRef.current,
+    inputRef,
     // Empty announcement list - just interrupt any announcements currently playing
     []
   );
@@ -79,7 +80,7 @@ function FilterInputArea(
       }
     }
   }, [isListening, playCancelListeningSound, stopListening]);
-  useLongPress(inputRef.current, handleLongPressDown, handleLongPressUp);
+  useLongPress(inputRef, handleLongPressDown, handleLongPressUp);
   const setValue = (value: string) => {
     setQuery(value);
     onChange(value);
@@ -117,11 +118,11 @@ function FilterInputArea(
 }
 
 function useLongPress(
-  element: EventTarget | null | undefined,
+  ref: RefObject<HTMLElement>,
   handleDown: () => void = () => {},
   handleUp: () => void = () => {}
 ) {
-  const isMousePressed = useMousePressed(element, {
+  const isMousePressed = useMousePressed(ref, {
     delay: 300,
     releaseDelay: 500,
   });

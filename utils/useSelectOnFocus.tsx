@@ -1,13 +1,13 @@
-import { MutableRefObject, useEffect, useState } from 'react';
+import { MutableRefObject, RefObject, useEffect, useState } from 'react';
 import useFocused from './useFocused';
 import usePrevious from './usePrevious';
 
-export default function useSelectOnFocus(element: null | HTMLInputElement) {
-  const isFocused = useFocused(element);
+export default function useSelectOnFocus(ref: RefObject<HTMLInputElement>) {
+  const isFocused = useFocused(ref);
   const wasFocused = usePrevious(isFocused);
   useEffect(() => {
     if (!wasFocused && isFocused) {
-      element?.select();
+      ref.current?.select();
     }
   });
 }

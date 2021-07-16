@@ -38,7 +38,7 @@ function FilterResults(
       firstRef.current?.focus();
     },
   }));
-  useArrowKeyNavigation(ref.current);
+  useArrowKeyNavigation(ref);
   const handleKeyDown = useCallback(
     (e) => {
       if (e.code === 'Backspace' || e.code === 'Escape') {

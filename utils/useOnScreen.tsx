@@ -1,7 +1,7 @@
-import { useEffect, useState } from 'react';
+import { RefObject, useEffect, useState } from 'react';
 
 export default function useOnScreen(
-  element: null | HTMLElement,
+  ref: RefObject<HTMLElement>,
   rootMargin: string = '0px'
 ) {
   // State and setter for storing whether element is visible
@@ -16,6 +16,7 @@ export default function useOnScreen(
         rootMargin,
       }
     );
+    const element = ref.current;
     if (!element) {
       return;
     }
@@ -23,6 +24,6 @@ export default function useOnScreen(
     return () => {
       observer.unobserve(element);
     };
-  }, [element, rootMargin]);
+  }, [ref, rootMargin]);
   return isIntersecting;
 }

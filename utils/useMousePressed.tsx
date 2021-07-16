@@ -1,13 +1,14 @@
-import { useEffect, useRef, useState } from 'react';
+import { RefObject, useEffect, useRef, useState } from 'react';
 
 export default function useMousePressed(
-  element: null | EventTarget = window,
+  ref: RefObject<HTMLElement>,
   options: { delay?: number; releaseDelay?: number } = {}
 ) {
   const [isPressed, setPressed] = useState(false);
   const downTimerId = useRef<number>();
   const upTimerId = useRef<number>();
   useEffect(() => {
+    const element = ref.current;
     if (!element) {
       return;
     }
@@ -45,6 +46,6 @@ export default function useMousePressed(
       element.removeEventListener('mousedown', handleMouseDown);
       window.removeEventListener('mouseup', handleMouseUp);
     };
-  }, [element, options.delay, options.releaseDelay]);
+  }, [options.delay, options.releaseDelay, ref]);
   return isPressed;
 }
