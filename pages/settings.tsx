@@ -159,7 +159,9 @@ function MidiTriggersSection() {
             : styles.midiTriggersDisabled
         }
       >
-        <li>Speech recognition (note = A0): {listening ? 'on' : 'off'}</li>
+        <li>
+          Speech recognition (note {'<'}= A0): {listening ? 'on' : 'off'}
+        </li>
       </ul>
     </section>
   );

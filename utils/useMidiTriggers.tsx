@@ -8,7 +8,8 @@ type MIDIMessageEventHandler = (
   event: WebMidi.MIDIMessageEvent
 ) => void;
 
-const LISTEN_TRIGGER_NOTE = 21;
+// Lowest note on an 88-key piano
+const A0 = 21;
 
 export default function useMidiTriggers({
   onStartListening = () => {},
@@ -27,12 +28,14 @@ export default function useMidiTriggers({
         decoder.on('data', (message: MIDIMessage) => {
           if (
             message.type === 'NoteOn' &&
-            message.note === LISTEN_TRIGGER_NOTE
+            message.velocity > 0 &&
+            message.note <= A0
           ) {
             onStartListening();
           } else if (
-            message.type === 'NoteOff' &&
-            message.note === LISTEN_TRIGGER_NOTE
+            ((message.type === 'NoteOn' && message.velocity === 0) ||
+              message.type === 'NoteOff') &&
+            message.note <= A0
           ) {
             onEndListening();
           }
