@@ -1,6 +1,5 @@
 import { MutableRefObject, useEffect, useState } from 'react';
 import useFocused from './useFocused';
-import useOnScreen from './useOnScreen';
 import usePrevious from './usePrevious';
 
 export default function useSelectOnFocus(element: null | HTMLInputElement) {
