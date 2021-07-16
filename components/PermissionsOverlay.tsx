@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from 'react';
+import { useCallback, useContext, useEffect, useState } from 'react';
 import Modal from 'react-modal';
 import useSound from 'use-sound';
 import styles from '../styles/PermissionsOverlay.module.css';
@@ -6,6 +6,7 @@ import useSpeechSynthesis from '../utils/useSpeechSynthesis';
 // @ts-ignore
 import { useSpeechRecognition } from 'react-speech-kit';
 import usePrevious from '../utils/usePrevious';
+import MidiAccessContext from './MidiAccessContext';
 
 function PermissionsOverlay() {
   const [modalIsOpen, setIsOpen] = useState(true);
@@ -22,6 +23,8 @@ function PermissionsOverlay() {
       stopListening();
     }
   }, [isListening, stopListening, wasListening]);
+  const { retryPermissions: retryMidiPermissions } =
+    useContext(MidiAccessContext);
 
   const handleUserActivation = useCallback(
     (e: Event) => {
@@ -31,13 +34,11 @@ function PermissionsOverlay() {
       window.removeEventListener('keydown', handleUserActivation, true);
       speak({ text: '' });
       playSound();
-      if (navigator.requestMIDIAccess) {
-        navigator.requestMIDIAccess();
-      }
+      retryMidiPermissions();
       listen();
       setIsOpen(false);
     },
-    [listen, playSound, speak]
+    [listen, playSound, retryMidiPermissions, speak]
   );
 
   useEffect(() => {

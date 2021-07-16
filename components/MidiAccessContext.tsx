@@ -12,6 +12,8 @@ export interface MidiPorts {
   outputs: WebMidi.MIDIOutputMap;
 
   state: 'pending' | 'rejected' | 'resolved';
+
+  retryPermissions(): void;
 }
 
 // @ts-ignore
