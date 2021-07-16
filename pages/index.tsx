@@ -14,6 +14,9 @@ import FilterInputArea from '../components/FilterInputArea';
 import useSpeechSynthesis from '../utils/useSpeechSynthesis';
 import usePrevious from '../utils/usePrevious';
 import PermissionsOverlay from '../components/PermissionsOverlay';
+import Link from 'next/link';
+import Image from 'next/image';
+import gear from '../images/gear.svg';
 
 export default function Home() {
   const [query] = useState('piano');
@@ -56,6 +59,7 @@ export default function Home() {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <PermissionsOverlay />
       <FilterInputArea
         onChange={(value) => {
           startTransition(() => setFilterQuery(value));
@@ -76,7 +80,13 @@ export default function Home() {
         }}
         isLoading={isPending}
       />
-      <PermissionsOverlay />
+      <div className={styles.toolbar}>
+        <Link href="/settings">
+          <a className={styles.settingsButton}>
+            <Image src={gear} height={15} width={15} alt="Settings" />
+          </a>
+        </Link>
+      </div>
     </div>
   );
 }

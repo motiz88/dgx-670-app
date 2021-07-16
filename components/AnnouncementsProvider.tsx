@@ -1,7 +1,7 @@
 import { useCallback, useContext, useMemo, useRef } from 'react';
 import AnnouncementsContext, { Announcement } from './AnnouncementsContext';
 import useSpeechSynthesis from '../utils/useSpeechSynthesis';
-import MidiAccessContext from './MidiAccessContext';
+import { useMidiConfig } from './MidiConfig';
 
 const DEFAULT_CHANNEL = 0;
 
@@ -13,8 +13,7 @@ export default function AnnouncementsProvider({
   const queue = useRef<Announcement[]>([]);
   const isBusy = useRef(false);
   const { speak, cancel: stopSpeaking } = useSpeechSynthesis();
-  const { outputs } = useContext(MidiAccessContext);
-  const targetMidiOutputs = useMemo(() => [...outputs.values()], [outputs]);
+  const { activeMidiOutputs } = useMidiConfig();
   const tryAdvanceQueue = useCallback(() => {
     if (isBusy.current) {
       return;
@@ -50,7 +49,7 @@ export default function AnnouncementsProvider({
         }
         break;
       case 'midi':
-        for (const output of targetMidiOutputs) {
+        for (const output of activeMidiOutputs) {
           output.send(
             announcement.data,
             announcement.delay != null
@@ -118,9 +117,9 @@ export default function AnnouncementsProvider({
         Promise.resolve().then(next);
         break;
     }
-  }, [speak, targetMidiOutputs]);
+  }, [speak, activeMidiOutputs]);
   const stopMidi = useCallback(() => {
-    for (const output of targetMidiOutputs) {
+    for (const output of activeMidiOutputs) {
       // "MIDI panic": note off messages on all notes/channels
       for (let note = 0; note <= 127; ++note) {
         for (let channel = 0; channel <= 15; ++channel) {
@@ -129,7 +128,7 @@ export default function AnnouncementsProvider({
         }
       }
     }
-  }, [targetMidiOutputs]);
+  }, [activeMidiOutputs]);
   const api = useMemo(
     () => ({
       announce(announcement: Announcement) {

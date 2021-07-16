@@ -1,0 +1,21 @@
+.container {
+  padding: 1rem;
+}
+.container a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+.checkItemDisabled {
+  color: grey;
+}
+
+.deleteButton:not(:active, :focus, :hover) {
+  border-color: transparent;
+  background: transparent;
+  cursor: pointer;
+}
+
+.deleteButton {
+  cursor: pointer;
+}

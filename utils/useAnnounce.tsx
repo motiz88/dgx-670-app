@@ -6,25 +6,37 @@ import useFocused from './useFocused';
 import usePrevious from './usePrevious';
 
 export default function useAnnounce(
-  element: null | HTMLElement,
-  announcementOrAnnouncements: Announcement | Announcement[]
+  // If specified, the element to announce on focus
+  element?: null | HTMLElement,
+  // If specified, the default announcement(s)
+  defaultAnnouncements?: undefined | Announcement | Announcement[]
 ) {
   const api = useContext(AnnouncementsContext);
 
-  const isFocused = useFocused(element);
+  const isFocused = useFocused(element ?? null);
   const wasFocused = usePrevious(isFocused);
 
-  const announceNow = useCallback(() => {
-    const announcements: Announcement[] = Array.isArray(
-      announcementOrAnnouncements
-    )
-      ? announcementOrAnnouncements
-      : [announcementOrAnnouncements];
-    api.stop();
-    for (const announcement of announcements) {
-      api.announce(announcement);
-    }
-  }, [announcementOrAnnouncements, api]);
+  const announceNow = useCallback(
+    (overrideAnnouncements?: undefined | Announcement | Announcement[]) => {
+      let announcements;
+      if (overrideAnnouncements) {
+        announcements = Array.isArray(overrideAnnouncements)
+          ? overrideAnnouncements
+          : [overrideAnnouncements];
+      } else if (defaultAnnouncements) {
+        announcements = Array.isArray(defaultAnnouncements)
+          ? defaultAnnouncements
+          : [defaultAnnouncements];
+      }
+      if (announcements) {
+        api.stop();
+        for (const announcement of announcements) {
+          api.announce(announcement);
+        }
+      }
+    },
+    [defaultAnnouncements, api]
+  );
 
   useEffect(() => {
     if (!wasFocused && isFocused) {

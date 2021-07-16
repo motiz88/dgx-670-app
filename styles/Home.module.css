@@ -4,3 +4,17 @@
   flex-direction: column;
   height: 100vh;
 }
+
+.container *:focus {
+  outline: 0.25rem solid blue;
+}
+
+.toolbar {
+  flex-direction: row;
+  align-self: flex-end;
+}
+
+.settingsButton {
+  display: flex;
+  margin: 0.1rem;
+}
