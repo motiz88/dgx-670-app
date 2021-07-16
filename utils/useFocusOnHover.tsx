@@ -1,5 +1,6 @@
-import { useEffect } from 'react';
+import { useCallback, useEffect } from 'react';
 import useHover from './useHover';
+import useInputMode, { InputMode } from './useInputMode';
 import usePrevious from './usePrevious';
 
 export default function useFocusOnHover(
@@ -8,9 +9,19 @@ export default function useFocusOnHover(
 ) {
   const isHovered = useHover(element);
   const wasHovered = usePrevious(isHovered);
+  const inputMode = useInputMode();
+  const inputIsMouse = inputMode === InputMode.Mouse;
+  const inputWasMouse = usePrevious(inputIsMouse);
   useEffect(() => {
-    if (!wasHovered && isHovered) {
+    if (isHovered && inputIsMouse && (!wasHovered || !inputWasMouse)) {
       focusElement?.focus();
     }
-  }, [isHovered, wasHovered, element, focusElement]);
+  }, [
+    isHovered,
+    wasHovered,
+    inputIsMouse,
+    inputWasMouse,
+    element,
+    focusElement,
+  ]);
 }
