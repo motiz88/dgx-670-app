@@ -35,12 +35,21 @@ const useSpeechSynthesis = (props = {}) => {
   }, []);
 
   const speak = (args = {}) => {
-    const { voice = null, text = '', rate = 1, pitch = 1, volume = 1 } = args;
+    const {
+      voice = null,
+      text = '',
+      rate = 1,
+      pitch = 1,
+      volume = 1,
+      lang,
+    } = args;
     if (!supported) return Promise.resolve();
     setSpeaking(true);
     // Firefox won't repeat an utterance that has been
     // spoken, so we need to create a new instance each time
     const utterance = new window.SpeechSynthesisUtterance();
+    // Chrome doesn't automatically use the document's language
+    utterance.lang = lang ?? document.documentElement.lang;
     utterance.text = text;
     utterance.voice = voice;
     utterance.rate = rate;
