@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@lachenmayer/midi-messages": "^1.0.1",
     "flexsearch": "^0.7.2",
     "next": "11.0.1",
     "react": "^18.0.0-alpha-464f27572-20210713",
@@ -22,6 +23,7 @@
   "devDependencies": {
     "@types/react": "^17.0.14",
     "@types/react-modal": "^3.12.1",
+    "@types/readable-stream": "^2.3.11",
     "@types/webmidi": "^2.0.6",
     "eslint": "7.30.0",
     "eslint-config-next": "11.0.1",

@@ -71,6 +71,8 @@ export function MidiConfigProvider({ children }: { children: ReactNode }) {
       ),
     [outputs, midiOutputConfig]
   );
+  const [midiTriggersEnabled, setMidiTriggersEnabled] =
+    useLocalStorage<boolean>('midiTriggersEnabled', true);
   const value = useMemo(
     () => ({
       portsByKey,
@@ -80,6 +82,8 @@ export function MidiConfigProvider({ children }: { children: ReactNode }) {
       setMidiOutputConfig,
       activeMidiInputs,
       activeMidiOutputs,
+      midiTriggersEnabled,
+      setMidiTriggersEnabled,
     }),
     [
       midiInputConfig,
@@ -89,6 +93,8 @@ export function MidiConfigProvider({ children }: { children: ReactNode }) {
       setMidiOutputConfig,
       activeMidiInputs,
       activeMidiOutputs,
+      midiTriggersEnabled,
+      setMidiTriggersEnabled,
     ]
   );
   return <Context.Provider value={value}>{children}</Context.Provider>;
@@ -102,6 +108,8 @@ const Context = createContext<{
   setMidiOutputConfig: Dispatch<SetStateAction<PortsConfig>>;
   activeMidiInputs: ReadonlyArray<WebMidi.MIDIInput>;
   activeMidiOutputs: ReadonlyArray<WebMidi.MIDIOutput>;
+  midiTriggersEnabled: boolean;
+  setMidiTriggersEnabled: Dispatch<SetStateAction<boolean>>;
 }>({
   portsByKey: new Map(),
   midiInputConfig: {},
@@ -110,6 +118,8 @@ const Context = createContext<{
   setMidiOutputConfig: () => {},
   activeMidiInputs: [],
   activeMidiOutputs: [],
+  midiTriggersEnabled: true,
+  setMidiTriggersEnabled: () => {},
 });
 
 export function useMidiConfig() {

@@ -6,7 +6,8 @@
   text-decoration: underline;
 }
 
-.checkItemDisabled {
+.checkItemDisabled,
+.midiTriggersDisabled {
   color: grey;
 }
 

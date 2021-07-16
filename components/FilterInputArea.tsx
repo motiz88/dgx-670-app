@@ -5,6 +5,7 @@ import {
   useCallback,
   useEffect,
   useImperativeHandle,
+  useMemo,
   useRef,
   useState,
 } from 'react';
@@ -18,6 +19,8 @@ import useSelectOnFocus from '../utils/useSelectOnFocus';
 // @ts-ignore
 import { useSpeechRecognition } from 'react-speech-kit';
 import useSound from 'use-sound';
+import useMidiTriggers from '../utils/useMidiTriggers';
+import { useMidiConfig } from './MidiConfig';
 
 function FilterInputArea(
   {
@@ -63,18 +66,24 @@ function FilterInputArea(
       onSubmit('speechRecognition');
     }
   }, [isListening, wasListening, onSubmit]);
-
+  const listeningGuard = useRef(false);
   const handleLongPressDown = useCallback(() => {
-    if (!isListening) {
+    if (!isListening && !listeningGuard.current) {
+      listeningGuard.current = true;
       changedWhileListening.current = false;
       playStartListeningSound();
       // FIXME: Guard listening better, probably fork the hook and track this in a ref
-      listen();
+      try {
+        listen();
+      } catch (e) {
+        console.error(e);
+      }
     }
   }, [isListening, listen, playStartListeningSound]);
   const handleLongPressUp = useCallback(() => {
-    if (isListening) {
+    if (isListening && listeningGuard.current) {
       stopListening();
+      listeningGuard.current = false;
       if (!changedWhileListening.current) {
         playCancelListeningSound();
       }
@@ -85,6 +94,15 @@ function FilterInputArea(
     setQuery(value);
     onChange(value);
   };
+  const { midiTriggersEnabled } = useMidiConfig();
+  const midiTriggers = useMemo(
+    () => ({
+      onStartListening: handleLongPressDown,
+      onEndListening: handleLongPressUp,
+    }),
+    [handleLongPressDown, handleLongPressUp]
+  );
+  useMidiTriggers(midiTriggersEnabled ? midiTriggers : undefined);
   return (
     <form
       className={styles.filterInputArea}
