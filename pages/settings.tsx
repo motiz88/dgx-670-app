@@ -97,7 +97,7 @@ function PortConfigSection({
               />
               {displayName}
             </label>
-            {!port && !enabled ? (
+            {!port ? (
               <button
                 className={styles.deleteButton}
                 onClick={() => {
@@ -106,6 +106,7 @@ function PortConfigSection({
                     return newConfig;
                   });
                 }}
+                title="Delete"
               >
                 ❌
               </button>
