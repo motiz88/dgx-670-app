@@ -2,7 +2,6 @@ import { useCallback, useContext, useEffect } from 'react';
 import AnnouncementsContext, {
   Announcement,
 } from '../components/AnnouncementsContext';
-import useSpeechSynthesis from '../utils/useSpeechSynthesis';
 import useFocused from './useFocused';
 import usePrevious from './usePrevious';
 
@@ -10,7 +9,6 @@ export default function useAnnounce(
   element: null | HTMLElement,
   announcementOrAnnouncements: Announcement | Announcement[]
 ) {
-  const { speak, cancel: stopSpeaking } = useSpeechSynthesis();
   const api = useContext(AnnouncementsContext);
 
   const isFocused = useFocused(element);
