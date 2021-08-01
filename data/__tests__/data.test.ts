@@ -5,6 +5,8 @@ test('all voices', () => {
 Array [
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 108,
     "pc1Based": 1,
@@ -28,6 +30,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 17,
     "msb": 108,
     "pc1Based": 2,
@@ -51,6 +55,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 30,
     "msb": 108,
     "pc1Based": 1,
@@ -74,6 +80,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 22,
     "msb": 108,
     "pc1Based": 2,
@@ -97,6 +105,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 23,
     "msb": 108,
     "pc1Based": 2,
@@ -120,6 +130,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 16,
     "msb": 108,
     "pc1Based": 2,
@@ -143,6 +155,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 16,
     "msb": 108,
     "pc1Based": 3,
@@ -166,6 +180,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 27,
     "msb": 108,
     "pc1Based": 4,
@@ -189,6 +205,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 28,
     "msb": 108,
     "pc1Based": 4,
@@ -212,6 +230,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 8,
     "pc1Based": 113,
@@ -235,6 +255,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 122,
     "msb": 0,
     "pc1Based": 1,
@@ -258,6 +280,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 6,
     "msb": 104,
     "pc1Based": 1,
@@ -281,6 +305,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 19,
     "msb": 104,
     "pc1Based": 1,
@@ -304,6 +330,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 123,
     "msb": 0,
     "pc1Based": 4,
@@ -327,6 +355,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 124,
     "msb": 0,
     "pc1Based": 4,
@@ -350,6 +380,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 123,
     "msb": 0,
     "pc1Based": 1,
@@ -373,6 +405,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 124,
     "msb": 0,
     "pc1Based": 3,
@@ -396,6 +430,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 19,
     "msb": 104,
     "pc1Based": 4,
@@ -419,6 +455,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 20,
     "msb": 104,
     "pc1Based": 4,
@@ -442,6 +480,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 122,
     "msb": 0,
     "pc1Based": 7,
@@ -465,6 +505,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 5,
@@ -488,6 +530,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 116,
     "msb": 0,
     "pc1Based": 5,
@@ -511,6 +555,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 6,
@@ -534,6 +580,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 5,
@@ -557,6 +605,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 5,
@@ -580,6 +630,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 3,
@@ -603,6 +655,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 3,
@@ -626,6 +680,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 1,
@@ -649,6 +705,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 1,
@@ -672,6 +730,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 4,
@@ -695,6 +755,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 6,
@@ -718,6 +780,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 124,
     "msb": 0,
     "pc1Based": 6,
@@ -741,6 +805,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 123,
     "msb": 0,
     "pc1Based": 6,
@@ -764,6 +830,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 6,
@@ -787,6 +855,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 6,
@@ -810,6 +880,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 3,
@@ -833,6 +905,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 8,
@@ -856,6 +930,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 8,
@@ -879,6 +955,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 8,
@@ -902,6 +980,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 1,
@@ -925,6 +1005,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 7,
@@ -948,6 +1030,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 123,
     "msb": 0,
     "pc1Based": 7,
@@ -971,6 +1055,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 104,
     "pc1Based": 6,
@@ -994,6 +1080,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 121,
     "msb": 0,
     "pc1Based": 6,
@@ -1017,6 +1105,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 5,
@@ -1040,6 +1130,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 5,
@@ -1063,6 +1155,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 3,
@@ -1086,6 +1180,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 120,
     "msb": 0,
     "pc1Based": 6,
@@ -1109,6 +1205,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 5,
@@ -1132,6 +1230,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 6,
@@ -1155,6 +1255,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 8,
     "pc1Based": 114,
@@ -1180,6 +1282,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 8,
     "pc1Based": 30,
@@ -1205,6 +1309,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 8,
     "pc1Based": 31,
@@ -1230,6 +1336,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 34,
     "msb": 8,
     "pc1Based": 30,
@@ -1255,6 +1363,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 33,
     "msb": 8,
     "pc1Based": 30,
@@ -1280,6 +1390,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 23,
@@ -1305,6 +1417,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 22,
@@ -1330,6 +1444,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 22,
@@ -1355,6 +1471,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 22,
@@ -1380,6 +1498,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 120,
     "msb": 0,
     "pc1Based": 22,
@@ -1405,6 +1525,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 121,
     "msb": 0,
     "pc1Based": 17,
@@ -1430,6 +1552,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 111,
     "msb": 0,
     "pc1Based": 17,
@@ -1455,6 +1579,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 127,
     "msb": 0,
     "pc1Based": 17,
@@ -1480,6 +1606,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 19,
@@ -1505,6 +1633,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 17,
@@ -1530,6 +1660,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 23,
@@ -1555,6 +1687,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 24,
@@ -1580,6 +1714,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 104,
     "pc1Based": 22,
@@ -1605,6 +1741,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 22,
@@ -1630,6 +1768,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 22,
@@ -1655,6 +1795,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 20,
@@ -1680,6 +1822,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 20,
@@ -1705,6 +1849,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 8,
     "msb": 104,
     "pc1Based": 17,
@@ -1730,6 +1876,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 9,
     "msb": 104,
     "pc1Based": 17,
@@ -1755,6 +1903,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 6,
     "msb": 104,
     "pc1Based": 18,
@@ -1780,6 +1930,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 20,
@@ -1805,6 +1957,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 20,
@@ -1830,6 +1984,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 5,
     "msb": 104,
     "pc1Based": 18,
@@ -1855,6 +2011,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 10,
     "msb": 104,
     "pc1Based": 17,
@@ -1880,6 +2038,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 7,
     "msb": 104,
     "pc1Based": 18,
@@ -1905,6 +2065,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 24,
@@ -1930,6 +2092,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 121,
     "msb": 0,
     "pc1Based": 22,
@@ -1955,6 +2119,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 122,
     "msb": 0,
     "pc1Based": 22,
@@ -1980,6 +2146,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 123,
     "msb": 0,
     "pc1Based": 22,
@@ -2005,6 +2173,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 22,
@@ -2030,6 +2200,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 24,
@@ -2055,6 +2227,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 5,
     "msb": 104,
     "pc1Based": 22,
@@ -2080,6 +2254,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 6,
     "msb": 104,
     "pc1Based": 22,
@@ -2105,6 +2281,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 33,
     "msb": 8,
     "pc1Based": 114,
@@ -2130,6 +2308,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 111,
     "msb": 0,
     "pc1Based": 19,
@@ -2155,6 +2335,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 17,
@@ -2180,6 +2362,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 111,
     "msb": 0,
     "pc1Based": 18,
@@ -2205,6 +2389,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 19,
@@ -2230,6 +2416,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 109,
     "msb": 0,
     "pc1Based": 18,
@@ -2255,6 +2443,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 19,
@@ -2280,6 +2470,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 17,
@@ -2305,6 +2497,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 127,
     "msb": 0,
     "pc1Based": 19,
@@ -2330,6 +2524,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 126,
     "msb": 0,
     "pc1Based": 19,
@@ -2355,6 +2551,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 125,
     "msb": 0,
     "pc1Based": 18,
@@ -2380,6 +2578,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 4,
@@ -2405,6 +2605,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 108,
     "msb": 0,
     "pc1Based": 18,
@@ -2430,6 +2632,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 107,
     "msb": 0,
     "pc1Based": 18,
@@ -2455,6 +2659,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 106,
     "msb": 0,
     "pc1Based": 18,
@@ -2480,6 +2686,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 105,
     "msb": 0,
     "pc1Based": 18,
@@ -2505,6 +2713,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 104,
     "msb": 0,
     "pc1Based": 18,
@@ -2530,6 +2740,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 8,
     "pc1Based": 1,
@@ -2554,6 +2766,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 34,
     "msb": 8,
     "pc1Based": 1,
@@ -2578,6 +2792,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 8,
     "pc1Based": 2,
@@ -2602,6 +2818,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 33,
     "msb": 8,
     "pc1Based": 2,
@@ -2626,6 +2844,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 33,
     "msb": 8,
     "pc1Based": 1,
@@ -2650,6 +2870,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 34,
     "msb": 8,
     "pc1Based": 4,
@@ -2674,6 +2896,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 8,
     "pc1Based": 6,
@@ -2698,6 +2922,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 34,
     "msb": 8,
     "pc1Based": 6,
@@ -2722,6 +2948,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 33,
     "msb": 8,
     "pc1Based": 7,
@@ -2746,6 +2974,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 8,
     "pc1Based": 7,
@@ -2770,6 +3000,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 34,
@@ -2794,6 +3026,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 35,
@@ -2818,6 +3052,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 37,
@@ -2842,6 +3078,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 36,
@@ -2866,6 +3104,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 33,
@@ -2890,6 +3130,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 40,
@@ -2914,6 +3156,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 40,
@@ -2938,6 +3182,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 39,
@@ -2962,6 +3208,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 39,
@@ -2986,6 +3234,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 39,
@@ -3010,6 +3260,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 8,
     "pc1Based": 4,
@@ -3034,6 +3286,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 33,
     "msb": 8,
     "pc1Based": 4,
@@ -3058,6 +3312,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 35,
     "msb": 8,
     "pc1Based": 4,
@@ -3082,6 +3338,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 8,
     "pc1Based": 4,
@@ -3106,6 +3364,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 35,
     "msb": 8,
     "pc1Based": 7,
@@ -3130,6 +3390,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 33,
     "msb": 8,
     "pc1Based": 5,
@@ -3154,6 +3416,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 8,
     "pc1Based": 5,
@@ -3178,6 +3442,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 33,
     "msb": 8,
     "pc1Based": 6,
@@ -3202,6 +3468,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 37,
     "msb": 8,
     "pc1Based": 4,
@@ -3226,6 +3494,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 36,
     "msb": 8,
     "pc1Based": 4,
@@ -3250,6 +3520,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 34,
@@ -3274,6 +3546,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 35,
@@ -3298,6 +3572,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 34,
@@ -3322,6 +3598,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 104,
     "pc1Based": 34,
@@ -3346,6 +3624,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 35,
@@ -3370,6 +3650,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 40,
@@ -3394,6 +3676,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 104,
     "pc1Based": 81,
@@ -3418,6 +3702,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 104,
     "pc1Based": 39,
@@ -3442,6 +3728,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 104,
     "pc1Based": 40,
@@ -3466,6 +3754,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 4,
     "msb": 104,
     "pc1Based": 39,
@@ -3490,6 +3780,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 25,
@@ -3514,6 +3806,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 116,
     "msb": 0,
     "pc1Based": 25,
@@ -3538,6 +3832,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 25,
@@ -3562,6 +3858,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 116,
     "msb": 0,
     "pc1Based": 26,
@@ -3586,6 +3884,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 26,
@@ -3610,6 +3910,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 38,
     "msb": 8,
     "pc1Based": 4,
@@ -3634,6 +3936,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 39,
     "msb": 8,
     "pc1Based": 4,
@@ -3658,6 +3962,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 30,
@@ -3682,6 +3988,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 31,
@@ -3706,6 +4014,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 27,
@@ -3730,6 +4040,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 26,
@@ -3754,6 +4066,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 106,
@@ -3778,6 +4092,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 105,
@@ -3802,6 +4118,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 107,
@@ -3826,6 +4144,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 8,
     "pc1Based": 50,
@@ -3842,6 +4162,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 8,
     "pc1Based": 49,
@@ -3858,6 +4180,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 50,
@@ -3874,6 +4198,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 123,
     "msb": 0,
     "pc1Based": 49,
@@ -3890,6 +4216,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 116,
     "msb": 0,
     "pc1Based": 53,
@@ -3906,6 +4234,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 41,
@@ -3922,6 +4252,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 42,
@@ -3938,6 +4270,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 43,
@@ -3954,6 +4288,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 44,
@@ -3970,6 +4306,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 47,
@@ -3986,6 +4324,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 46,
@@ -4002,6 +4342,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 45,
@@ -4018,6 +4360,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 33,
     "msb": 8,
     "pc1Based": 49,
@@ -4034,6 +4378,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 122,
     "msb": 0,
     "pc1Based": 50,
@@ -4050,6 +4396,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 50,
@@ -4066,6 +4414,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 53,
@@ -4082,6 +4432,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 53,
@@ -4098,6 +4450,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 53,
@@ -4114,6 +4468,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 54,
@@ -4130,6 +4486,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 55,
@@ -4146,6 +4504,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 47,
@@ -4162,6 +4522,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 16,
@@ -4178,6 +4540,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 16,
@@ -4194,6 +4558,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 16,
@@ -4210,6 +4576,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 108,
@@ -4226,6 +4594,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 34,
     "msb": 8,
     "pc1Based": 49,
@@ -4242,6 +4612,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 46,
@@ -4258,6 +4630,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 49,
@@ -4274,6 +4648,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 49,
@@ -4290,6 +4666,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 49,
@@ -4306,6 +4684,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 123,
     "msb": 0,
     "pc1Based": 50,
@@ -4322,6 +4702,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 124,
     "msb": 0,
     "pc1Based": 50,
@@ -4338,6 +4720,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 52,
@@ -4354,6 +4738,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 51,
@@ -4370,6 +4756,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 51,
@@ -4386,6 +4774,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 47,
@@ -4402,6 +4792,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 120,
     "msb": 0,
     "pc1Based": 50,
@@ -4418,6 +4810,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 56,
@@ -4434,6 +4828,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 8,
     "pc1Based": 65,
@@ -4464,6 +4860,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 58,
@@ -4494,6 +4892,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 37,
     "msb": 8,
     "pc1Based": 57,
@@ -4524,6 +4924,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 36,
     "msb": 8,
     "pc1Based": 57,
@@ -4554,6 +4956,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 61,
@@ -4584,6 +4988,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 8,
     "pc1Based": 83,
@@ -4614,6 +5020,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 74,
@@ -4644,6 +5052,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 69,
@@ -4674,6 +5084,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 72,
@@ -4704,6 +5116,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 120,
     "msb": 0,
     "pc1Based": 63,
@@ -4734,6 +5148,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 33,
     "msb": 8,
     "pc1Based": 65,
@@ -4764,6 +5180,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 34,
     "msb": 8,
     "pc1Based": 65,
@@ -4794,6 +5212,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 37,
     "msb": 8,
     "pc1Based": 65,
@@ -4824,6 +5244,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 38,
     "msb": 8,
     "pc1Based": 65,
@@ -4854,6 +5276,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 35,
     "msb": 8,
     "pc1Based": 65,
@@ -4884,6 +5308,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 108,
     "msb": 0,
     "pc1Based": 62,
@@ -4914,6 +5340,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 110,
     "msb": 0,
     "pc1Based": 62,
@@ -4944,6 +5372,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 111,
     "msb": 0,
     "pc1Based": 62,
@@ -4974,6 +5404,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 34,
     "msb": 8,
     "pc1Based": 57,
@@ -5004,6 +5436,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 35,
     "msb": 8,
     "pc1Based": 57,
@@ -5034,6 +5468,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 33,
     "msb": 8,
     "pc1Based": 83,
@@ -5064,6 +5500,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 65,
@@ -5094,6 +5532,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 66,
@@ -5124,6 +5564,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 68,
@@ -5154,6 +5596,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 116,
     "msb": 0,
     "pc1Based": 67,
@@ -5184,6 +5628,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 73,
@@ -5214,6 +5660,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 70,
@@ -5244,6 +5692,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 71,
@@ -5274,6 +5724,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 74,
@@ -5304,6 +5756,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 71,
@@ -5334,6 +5788,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 64,
@@ -5364,6 +5820,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 63,
@@ -5394,6 +5852,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 63,
@@ -5424,6 +5884,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 63,
@@ -5454,6 +5916,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 6,
     "msb": 104,
     "pc1Based": 63,
@@ -5484,6 +5948,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 116,
     "msb": 0,
     "pc1Based": 64,
@@ -5514,6 +5980,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 63,
@@ -5544,6 +6012,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 64,
@@ -5574,6 +6044,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 64,
@@ -5604,6 +6076,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 63,
@@ -5634,6 +6108,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 74,
@@ -5664,6 +6140,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 74,
@@ -5694,6 +6172,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 72,
@@ -5724,6 +6204,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 121,
     "msb": 0,
     "pc1Based": 67,
@@ -5754,6 +6236,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 122,
     "msb": 0,
     "pc1Based": 67,
@@ -5784,6 +6268,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 72,
@@ -5814,6 +6300,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 72,
@@ -5844,6 +6332,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 69,
@@ -5874,6 +6364,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 123,
     "msb": 0,
     "pc1Based": 67,
@@ -5904,6 +6396,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 67,
@@ -5934,6 +6428,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 57,
@@ -5964,6 +6460,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 60,
@@ -5994,6 +6492,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 57,
@@ -6024,6 +6524,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 61,
@@ -6054,6 +6556,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 61,
@@ -6084,6 +6588,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 59,
@@ -6114,6 +6620,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 127,
     "msb": 0,
     "pc1Based": 62,
@@ -6144,6 +6652,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 121,
     "msb": 0,
     "pc1Based": 63,
@@ -6174,6 +6684,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 8,
     "pc1Based": 57,
@@ -6204,6 +6716,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 38,
     "msb": 8,
     "pc1Based": 57,
@@ -6234,6 +6748,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 76,
@@ -6264,6 +6780,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 110,
@@ -6294,6 +6812,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 108,
     "msb": 0,
     "pc1Based": 67,
@@ -6324,6 +6844,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 110,
     "msb": 0,
     "pc1Based": 67,
@@ -6354,6 +6876,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 109,
     "msb": 0,
     "pc1Based": 67,
@@ -6384,6 +6908,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 59,
@@ -6414,6 +6940,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 34,
@@ -6444,6 +6972,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 59,
@@ -6474,6 +7004,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 61,
@@ -6504,6 +7036,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 61,
@@ -6534,6 +7068,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 78,
@@ -6564,6 +7100,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 75,
@@ -6594,6 +7132,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 80,
@@ -6624,6 +7164,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 79,
@@ -6654,6 +7196,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 12,
@@ -6669,6 +7213,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 12,
@@ -6684,6 +7230,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 12,
@@ -6699,6 +7247,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 13,
@@ -6714,6 +7264,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 14,
@@ -6729,6 +7281,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 92,
@@ -6744,6 +7298,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 61,
@@ -6759,6 +7315,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 41,
@@ -6774,6 +7332,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 88,
@@ -6789,6 +7349,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 89,
@@ -6804,6 +7366,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 91,
@@ -6819,6 +7383,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 87,
@@ -6834,6 +7400,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 33,
@@ -6849,6 +7417,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 9,
@@ -6864,6 +7434,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 90,
@@ -6879,6 +7451,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 49,
@@ -6894,6 +7468,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 59,
@@ -6909,6 +7485,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 60,
@@ -6924,6 +7502,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 58,
@@ -6939,6 +7519,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 57,
@@ -6954,6 +7536,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 126,
     "pc1Based": 44,
@@ -6969,6 +7553,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 126,
     "pc1Based": 41,
@@ -6984,6 +7570,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 126,
     "pc1Based": 68,
@@ -6999,6 +7587,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 126,
     "pc1Based": 36,
@@ -7014,6 +7604,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 48,
@@ -7029,6 +7621,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 9,
@@ -7044,6 +7638,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 10,
@@ -7059,6 +7655,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 15,
@@ -7074,6 +7672,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 109,
@@ -7089,6 +7689,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 115,
@@ -7104,6 +7706,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 11,
@@ -7119,6 +7723,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 28,
@@ -7134,6 +7740,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 5,
@@ -7149,6 +7757,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 25,
@@ -7164,6 +7774,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 26,
@@ -7179,6 +7791,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 126,
     "pc1Based": 9,
@@ -7194,6 +7808,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 126,
     "pc1Based": 1,
@@ -7209,6 +7825,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 126,
     "pc1Based": 2,
@@ -7224,6 +7842,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 104,
     "pc1Based": 63,
@@ -7250,6 +7870,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 122,
     "msb": 0,
     "pc1Based": 82,
@@ -7276,6 +7898,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 123,
     "msb": 0,
     "pc1Based": 82,
@@ -7302,6 +7926,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 120,
     "msb": 0,
     "pc1Based": 82,
@@ -7328,6 +7954,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 81,
@@ -7354,6 +7982,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 85,
@@ -7380,6 +8010,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 5,
     "msb": 104,
     "pc1Based": 91,
@@ -7406,6 +8038,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 91,
@@ -7432,6 +8066,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 8,
     "msb": 104,
     "pc1Based": 82,
@@ -7458,6 +8094,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 5,
     "msb": 104,
     "pc1Based": 52,
@@ -7484,6 +8122,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 4,
     "msb": 104,
     "pc1Based": 81,
@@ -7510,6 +8150,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 4,
     "msb": 104,
     "pc1Based": 52,
@@ -7536,6 +8178,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 12,
     "msb": 104,
     "pc1Based": 82,
@@ -7562,6 +8206,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 6,
     "msb": 104,
     "pc1Based": 89,
@@ -7588,6 +8234,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 4,
     "msb": 104,
     "pc1Based": 63,
@@ -7614,6 +8262,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 90,
@@ -7640,6 +8290,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 90,
@@ -7666,6 +8318,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 51,
@@ -7692,6 +8346,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 4,
     "msb": 104,
     "pc1Based": 90,
@@ -7718,6 +8374,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 90,
@@ -7744,6 +8402,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 82,
@@ -7770,6 +8430,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 5,
     "msb": 104,
     "pc1Based": 81,
@@ -7796,6 +8458,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 85,
@@ -7822,6 +8486,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 82,
@@ -7848,6 +8514,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 7,
     "msb": 104,
     "pc1Based": 82,
@@ -7874,6 +8542,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 127,
     "msb": 0,
     "pc1Based": 82,
@@ -7900,6 +8570,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 7,
     "msb": 104,
     "pc1Based": 52,
@@ -7926,6 +8598,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 9,
     "msb": 104,
     "pc1Based": 82,
@@ -7952,6 +8626,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 87,
@@ -7978,6 +8654,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 87,
@@ -8004,6 +8682,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 5,
     "msb": 104,
     "pc1Based": 82,
@@ -8030,6 +8710,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 13,
     "msb": 104,
     "pc1Based": 82,
@@ -8056,6 +8738,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 88,
@@ -8082,6 +8766,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 104,
     "pc1Based": 88,
@@ -8108,6 +8794,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 107,
@@ -8134,6 +8822,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 102,
@@ -8160,6 +8850,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 104,
@@ -8186,6 +8878,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 102,
@@ -8212,6 +8906,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 100,
@@ -8238,6 +8934,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 116,
     "msb": 0,
     "pc1Based": 89,
@@ -8264,6 +8962,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 90,
@@ -8290,6 +8990,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 120,
     "msb": 0,
     "pc1Based": 90,
@@ -8316,6 +9018,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 95,
@@ -8342,6 +9046,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 104,
     "pc1Based": 89,
@@ -8368,6 +9074,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 4,
     "msb": 104,
     "pc1Based": 89,
@@ -8394,6 +9102,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 89,
@@ -8420,6 +9130,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 121,
     "msb": 0,
     "pc1Based": 89,
@@ -8446,6 +9158,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 89,
@@ -8472,6 +9186,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 120,
     "msb": 0,
     "pc1Based": 89,
@@ -8498,6 +9214,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 122,
     "msb": 0,
     "pc1Based": 89,
@@ -8524,6 +9242,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 82,
@@ -8550,6 +9270,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 85,
@@ -8576,6 +9298,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 88,
@@ -8602,6 +9326,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 104,
     "pc1Based": 82,
@@ -8628,6 +9354,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 85,
@@ -8654,6 +9382,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 101,
@@ -8680,6 +9410,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 7,
     "msb": 104,
     "pc1Based": 89,
@@ -8706,6 +9438,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 4,
     "msb": 104,
     "pc1Based": 88,
@@ -8732,6 +9466,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 5,
     "msb": 104,
     "pc1Based": 88,
@@ -8758,6 +9494,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 91,
@@ -8784,6 +9522,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 6,
     "msb": 104,
     "pc1Based": 88,
@@ -8810,6 +9550,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 7,
     "msb": 104,
     "pc1Based": 88,
@@ -8836,6 +9578,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 8,
     "msb": 104,
     "pc1Based": 88,
@@ -8862,6 +9606,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 11,
     "msb": 104,
     "pc1Based": 82,
@@ -8888,6 +9634,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 9,
     "msb": 104,
     "pc1Based": 88,
@@ -8914,6 +9662,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 98,
@@ -8940,6 +9690,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 98,
@@ -8966,6 +9718,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 96,
@@ -8992,6 +9746,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 89,
@@ -9018,6 +9774,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 92,
@@ -9044,6 +9802,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 52,
@@ -9070,6 +9830,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 100,
@@ -9096,6 +9858,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 52,
@@ -9122,6 +9886,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 96,
@@ -9148,6 +9914,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 89,
@@ -9174,6 +9942,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 104,
     "pc1Based": 96,
@@ -9200,6 +9970,8 @@ Array [
   },
   Object {
     "category": "Main",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 8,
     "pc1Based": 121,
@@ -9226,6 +9998,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 1,
@@ -9236,7 +10010,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -9253,6 +10026,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 5,
     "msb": 104,
     "pc1Based": 1,
@@ -9263,7 +10038,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -9280,6 +10054,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 4,
     "msb": 104,
     "pc1Based": 1,
@@ -9290,7 +10066,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -9307,6 +10082,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 3,
     "msb": 104,
     "pc1Based": 1,
@@ -9317,7 +10094,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -9334,6 +10110,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 4,
@@ -9344,7 +10122,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -9361,6 +10138,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 1,
@@ -9371,7 +10150,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -9388,6 +10166,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 2,
@@ -9398,7 +10178,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -9415,6 +10194,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 3,
@@ -9425,7 +10206,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -9442,6 +10222,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 7,
@@ -9452,7 +10234,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -9469,6 +10250,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 6,
@@ -9481,6 +10264,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 6,
@@ -9493,6 +10278,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 6,
@@ -9505,6 +10292,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 8,
@@ -9517,6 +10306,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 123,
     "msb": 0,
     "pc1Based": 17,
@@ -9550,6 +10341,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 124,
     "msb": 0,
     "pc1Based": 18,
@@ -9583,6 +10376,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 124,
     "msb": 0,
     "pc1Based": 17,
@@ -9616,6 +10411,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 19,
@@ -9649,6 +10446,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 19,
@@ -9682,6 +10481,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 19,
@@ -9715,6 +10516,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 18,
@@ -9748,6 +10551,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 18,
@@ -9781,6 +10586,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 18,
@@ -9814,6 +10621,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 110,
     "msb": 0,
     "pc1Based": 18,
@@ -9847,6 +10656,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 126,
     "msb": 0,
     "pc1Based": 18,
@@ -9880,6 +10691,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 127,
     "msb": 0,
     "pc1Based": 18,
@@ -9913,6 +10726,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 18,
@@ -9946,6 +10761,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 116,
     "msb": 0,
     "pc1Based": 22,
@@ -9960,6 +10777,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 22,
@@ -9974,6 +10793,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 22,
@@ -9988,6 +10809,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 25,
@@ -10003,6 +10826,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 25,
@@ -10018,6 +10843,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 120,
     "msb": 0,
     "pc1Based": 26,
@@ -10033,6 +10860,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 26,
@@ -10048,6 +10877,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 26,
@@ -10063,6 +10894,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 28,
@@ -10081,6 +10914,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 109,
     "msb": 0,
     "pc1Based": 28,
@@ -10099,6 +10934,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 107,
     "msb": 0,
     "pc1Based": 28,
@@ -10117,6 +10954,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 28,
@@ -10135,6 +10974,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 29,
@@ -10153,6 +10994,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 29,
@@ -10171,6 +11014,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 28,
@@ -10189,6 +11034,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 116,
     "msb": 0,
     "pc1Based": 29,
@@ -10207,6 +11054,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 29,
@@ -10225,6 +11074,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 28,
@@ -10243,6 +11094,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 108,
     "msb": 0,
     "pc1Based": 28,
@@ -10261,6 +11114,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 110,
     "msb": 0,
     "pc1Based": 28,
@@ -10279,6 +11134,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 29,
@@ -10297,6 +11154,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 123,
     "msb": 0,
     "pc1Based": 28,
@@ -10315,6 +11174,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 126,
     "msb": 0,
     "pc1Based": 28,
@@ -10333,6 +11194,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 122,
     "msb": 0,
     "pc1Based": 28,
@@ -10351,6 +11214,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 27,
@@ -10369,6 +11234,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 27,
@@ -10387,6 +11254,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 30,
@@ -10405,6 +11274,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 31,
@@ -10423,6 +11294,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 31,
@@ -10441,6 +11314,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 27,
@@ -10459,6 +11334,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 125,
     "msb": 0,
     "pc1Based": 28,
@@ -10477,6 +11354,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 30,
@@ -10495,6 +11374,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 27,
@@ -10513,6 +11394,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 28,
@@ -10531,6 +11414,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 33,
@@ -10555,6 +11440,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 36,
@@ -10579,6 +11466,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 38,
@@ -10603,6 +11492,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 37,
@@ -10627,6 +11518,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 35,
@@ -10651,6 +11544,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 35,
@@ -10675,6 +11570,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 34,
@@ -10699,6 +11596,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 7,
     "msb": 104,
     "pc1Based": 40,
@@ -10723,6 +11622,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 39,
@@ -10747,6 +11648,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 116,
     "msb": 0,
     "pc1Based": 40,
@@ -10771,6 +11674,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 39,
@@ -10795,6 +11700,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 116,
     "msb": 0,
     "pc1Based": 39,
@@ -10819,6 +11726,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 6,
     "msb": 104,
     "pc1Based": 40,
@@ -10843,6 +11752,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 8,
     "msb": 104,
     "pc1Based": 39,
@@ -10867,6 +11778,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 39,
@@ -10891,6 +11804,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 39,
@@ -10915,6 +11830,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 4,
     "msb": 104,
     "pc1Based": 40,
@@ -10939,6 +11856,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 40,
@@ -10963,6 +11882,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 40,
@@ -10987,6 +11908,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 17,
     "msb": 104,
     "pc1Based": 82,
@@ -11011,6 +11934,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 41,
@@ -11032,6 +11957,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 111,
@@ -11053,6 +11980,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 124,
     "msb": 0,
     "pc1Based": 49,
@@ -11074,6 +12003,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 121,
     "msb": 0,
     "pc1Based": 49,
@@ -11095,6 +12026,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 120,
     "msb": 0,
     "pc1Based": 49,
@@ -11116,6 +12049,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 46,
@@ -11137,6 +12072,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 49,
@@ -11158,6 +12095,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 50,
@@ -11179,6 +12118,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 50,
@@ -11200,6 +12141,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 121,
     "msb": 0,
     "pc1Based": 50,
@@ -11221,6 +12164,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 50,
@@ -11242,6 +12187,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 50,
@@ -11263,6 +12210,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 122,
     "msb": 0,
     "pc1Based": 57,
@@ -11289,6 +12238,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 120,
     "msb": 0,
     "pc1Based": 57,
@@ -11315,6 +12266,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 121,
     "msb": 0,
     "pc1Based": 57,
@@ -11341,6 +12294,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 57,
@@ -11367,6 +12322,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 60,
@@ -11393,6 +12350,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 58,
@@ -11419,6 +12378,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 58,
@@ -11445,6 +12406,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 58,
@@ -11471,6 +12434,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 59,
@@ -11497,6 +12462,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 109,
     "msb": 0,
     "pc1Based": 62,
@@ -11523,6 +12490,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 123,
     "msb": 0,
     "pc1Based": 57,
@@ -11549,6 +12518,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 67,
@@ -11575,6 +12546,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 106,
     "msb": 0,
     "pc1Based": 62,
@@ -11601,6 +12574,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 62,
@@ -11627,6 +12602,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 63,
@@ -11653,6 +12630,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 116,
     "msb": 0,
     "pc1Based": 63,
@@ -11679,6 +12658,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 63,
@@ -11705,6 +12686,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 123,
     "msb": 0,
     "pc1Based": 62,
@@ -11731,6 +12714,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 105,
     "msb": 0,
     "pc1Based": 62,
@@ -11757,6 +12742,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 107,
     "msb": 0,
     "pc1Based": 62,
@@ -11783,6 +12770,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 120,
     "msb": 0,
     "pc1Based": 61,
@@ -11809,6 +12798,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 64,
@@ -11835,6 +12826,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 63,
@@ -11861,6 +12854,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 65,
@@ -11876,6 +12871,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 67,
@@ -11891,6 +12888,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 126,
     "msb": 0,
     "pc1Based": 67,
@@ -11906,6 +12905,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 35,
     "msb": 8,
     "pc1Based": 83,
@@ -11921,6 +12922,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 111,
     "msb": 0,
     "pc1Based": 67,
@@ -11936,6 +12939,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 125,
     "msb": 0,
     "pc1Based": 67,
@@ -11951,6 +12956,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 127,
     "msb": 0,
     "pc1Based": 67,
@@ -11966,6 +12973,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 67,
@@ -11981,6 +12990,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 74,
@@ -11996,6 +13007,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 69,
@@ -12011,6 +13024,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 72,
@@ -12026,6 +13041,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 71,
@@ -12041,6 +13058,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 124,
     "msb": 0,
     "pc1Based": 67,
@@ -12056,6 +13075,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 120,
     "msb": 0,
     "pc1Based": 67,
@@ -12071,6 +13092,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 116,
     "msb": 0,
     "pc1Based": 74,
@@ -12086,6 +13109,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 69,
@@ -12101,6 +13126,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 67,
@@ -12116,6 +13143,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 55,
@@ -12130,6 +13159,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 53,
@@ -12144,6 +13175,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 53,
@@ -12158,6 +13191,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 84,
@@ -12175,6 +13210,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 82,
@@ -12192,6 +13229,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 126,
     "msb": 0,
     "pc1Based": 82,
@@ -12209,6 +13248,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 82,
@@ -12226,6 +13267,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 82,
@@ -12243,6 +13286,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 85,
@@ -12260,6 +13305,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 5,
     "msb": 104,
     "pc1Based": 63,
@@ -12277,6 +13324,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 10,
     "msb": 104,
     "pc1Based": 82,
@@ -12294,6 +13343,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 82,
@@ -12311,6 +13362,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 116,
     "msb": 0,
     "pc1Based": 82,
@@ -12328,6 +13381,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 82,
@@ -12345,6 +13400,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 15,
     "msb": 104,
     "pc1Based": 82,
@@ -12362,6 +13419,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 81,
@@ -12379,6 +13438,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 81,
@@ -12396,6 +13457,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 126,
     "msb": 0,
     "pc1Based": 81,
@@ -12413,6 +13476,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 122,
     "msb": 0,
     "pc1Based": 81,
@@ -12430,6 +13495,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 85,
@@ -12447,6 +13514,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 82,
@@ -12464,6 +13533,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 124,
     "msb": 0,
     "pc1Based": 81,
@@ -12481,6 +13552,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 16,
     "msb": 104,
     "pc1Based": 82,
@@ -12498,6 +13571,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 81,
@@ -12515,6 +13590,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 81,
@@ -12532,6 +13609,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 88,
@@ -12549,6 +13628,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 85,
@@ -12566,6 +13647,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 116,
     "msb": 0,
     "pc1Based": 85,
@@ -12583,6 +13666,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 121,
     "msb": 0,
     "pc1Based": 81,
@@ -12600,6 +13685,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 81,
@@ -12617,6 +13704,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 82,
@@ -12634,6 +13723,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 85,
@@ -12651,6 +13742,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 4,
     "msb": 104,
     "pc1Based": 82,
@@ -12668,6 +13761,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 88,
@@ -12685,6 +13780,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 105,
@@ -12702,6 +13799,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 123,
     "msb": 0,
     "pc1Based": 81,
@@ -12719,6 +13818,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 6,
     "msb": 104,
     "pc1Based": 82,
@@ -12736,6 +13837,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 104,
     "pc1Based": 91,
@@ -12753,6 +13856,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 99,
@@ -12770,6 +13875,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 9,
     "msb": 104,
     "pc1Based": 89,
@@ -12787,6 +13894,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 8,
     "msb": 104,
     "pc1Based": 89,
@@ -12804,6 +13913,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 124,
     "msb": 0,
     "pc1Based": 89,
@@ -12821,6 +13932,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 99,
@@ -12838,6 +13951,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 88,
@@ -12855,6 +13970,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 95,
@@ -12872,6 +13989,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 104,
     "pc1Based": 52,
@@ -12889,6 +14008,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 5,
     "msb": 104,
     "pc1Based": 89,
@@ -12906,6 +14027,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 4,
     "msb": 104,
     "pc1Based": 91,
@@ -12923,6 +14046,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 102,
@@ -12940,6 +14065,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 6,
     "msb": 104,
     "pc1Based": 52,
@@ -12957,6 +14084,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 96,
@@ -12974,6 +14103,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 102,
@@ -12991,6 +14122,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 102,
@@ -13008,6 +14141,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 51,
@@ -13025,6 +14160,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 14,
     "msb": 104,
     "pc1Based": 82,
@@ -13042,6 +14179,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 104,
     "pc1Based": 52,
@@ -13058,6 +14197,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 89,
@@ -13074,6 +14215,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 119,
     "msb": 0,
     "pc1Based": 96,
@@ -13090,6 +14233,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 91,
@@ -13106,6 +14251,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 96,
@@ -13122,6 +14269,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 104,
     "pc1Based": 91,
@@ -13138,6 +14287,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 104,
     "pc1Based": 51,
@@ -13154,6 +14305,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 91,
@@ -13170,6 +14323,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 100,
@@ -13186,6 +14341,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 121,
     "msb": 0,
     "pc1Based": 90,
@@ -13202,6 +14359,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 104,
     "pc1Based": 90,
@@ -13218,6 +14377,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 118,
     "msb": 0,
     "pc1Based": 96,
@@ -13234,6 +14395,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 94,
@@ -13250,6 +14413,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 91,
@@ -13266,6 +14431,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 89,
@@ -13282,6 +14449,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 116,
     "msb": 0,
     "pc1Based": 95,
@@ -13298,6 +14467,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 113,
     "msb": 0,
     "pc1Based": 95,
@@ -13314,6 +14485,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 122,
     "msb": 0,
     "pc1Based": 90,
@@ -13330,6 +14503,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 51,
@@ -13346,6 +14521,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 96,
@@ -13362,6 +14539,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 117,
     "msb": 0,
     "pc1Based": 89,
@@ -13378,6 +14557,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 90,
@@ -13394,6 +14575,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 115,
     "msb": 0,
     "pc1Based": 96,
@@ -13410,6 +14593,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 4,
     "msb": 104,
     "pc1Based": 51,
@@ -13426,6 +14611,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 102,
@@ -13442,6 +14629,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 91,
@@ -13458,6 +14647,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 102,
@@ -13474,6 +14665,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 114,
     "msb": 0,
     "pc1Based": 95,
@@ -13490,6 +14683,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 123,
     "msb": 0,
     "pc1Based": 89,
@@ -13506,6 +14701,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 104,
     "pc1Based": 96,
@@ -13522,6 +14719,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 112,
     "msb": 0,
     "pc1Based": 96,
@@ -13538,6 +14737,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 1,
@@ -13552,6 +14753,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 2,
@@ -13566,6 +14769,8 @@ Array [
   },
   Object {
     "category": "Legacy",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 127,
     "pc1Based": 17,
@@ -13580,6 +14785,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 8,
     "pc1Based": 1,
@@ -13595,6 +14802,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 8,
     "pc1Based": 3,
@@ -13610,6 +14819,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 8,
     "pc1Based": 3,
@@ -13625,6 +14836,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 8,
     "pc1Based": 2,
@@ -13640,6 +14853,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 8,
     "pc1Based": 4,
@@ -13658,6 +14873,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 8,
     "pc1Based": 4,
@@ -13676,6 +14893,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 8,
     "pc1Based": 4,
@@ -13694,6 +14913,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 8,
     "pc1Based": 4,
@@ -13712,6 +14933,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 8,
     "pc1Based": 7,
@@ -13730,6 +14953,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 8,
     "pc1Based": 6,
@@ -13748,6 +14973,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 8,
     "pc1Based": 5,
@@ -13766,6 +14993,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 8,
     "pc1Based": 17,
@@ -13790,6 +15019,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 8,
     "pc1Based": 18,
@@ -13814,6 +15045,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 8,
     "pc1Based": 19,
@@ -13838,6 +15071,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 2,
     "msb": 8,
     "pc1Based": 18,
@@ -13862,6 +15097,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 8,
     "pc1Based": 19,
@@ -13886,6 +15123,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 8,
     "pc1Based": 18,
@@ -13910,6 +15149,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 8,
     "pc1Based": 20,
@@ -13934,6 +15175,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 8,
     "pc1Based": 50,
@@ -13955,6 +15198,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 8,
     "pc1Based": 49,
@@ -13976,6 +15221,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 8,
     "pc1Based": 65,
@@ -14002,6 +15249,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 8,
     "pc1Based": 57,
@@ -14028,6 +15277,8 @@ Array [
   },
   Object {
     "category": "MegaVoice",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 8,
     "pc1Based": 83,
@@ -14043,6 +15294,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 1,
@@ -14053,7 +15306,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14070,6 +15322,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": true,
     "lsb": 1,
     "msb": 0,
     "pc1Based": 1,
@@ -14080,7 +15334,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14092,11 +15345,13 @@ Array [
     "subCategory": "Piano",
     "subCategoryPretty": "Piano",
     "voiceName": "GrandPno KSP",
-    "voiceNamePretty": "Grand Piano KSP",
+    "voiceNamePretty": "Grand Piano",
     "voiceType": "Regular",
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 18,
     "msb": 0,
     "pc1Based": 1,
@@ -14107,7 +15362,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14124,6 +15378,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 1,
@@ -14134,7 +15390,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14151,6 +15406,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 41,
     "msb": 0,
     "pc1Based": 1,
@@ -14161,7 +15418,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14178,6 +15434,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 2,
@@ -14188,7 +15446,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14205,6 +15462,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": true,
     "lsb": 1,
     "msb": 0,
     "pc1Based": 2,
@@ -14215,7 +15474,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14227,11 +15485,13 @@ Array [
     "subCategory": "Piano",
     "subCategoryPretty": "Piano",
     "voiceName": "BrightPno KSP",
-    "voiceNamePretty": "Bright Piano KSP",
+    "voiceNamePretty": "Bright Piano",
     "voiceType": "Regular",
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 3,
@@ -14242,7 +15502,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14259,6 +15518,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": true,
     "lsb": 1,
     "msb": 0,
     "pc1Based": 3,
@@ -14269,7 +15530,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14281,11 +15541,13 @@ Array [
     "subCategory": "Piano",
     "subCategoryPretty": "Piano",
     "voiceName": "E.GrandPiano KSP",
-    "voiceNamePretty": "Electric Grand Piano KSP",
+    "voiceNamePretty": "Electric Grand Piano",
     "voiceType": "Regular",
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 3,
@@ -14296,7 +15558,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14313,6 +15574,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 3,
@@ -14323,7 +15586,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14340,6 +15602,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 41,
     "msb": 0,
     "pc1Based": 3,
@@ -14350,7 +15614,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14367,6 +15630,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 4,
@@ -14377,7 +15642,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14394,6 +15658,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": true,
     "lsb": 1,
     "msb": 0,
     "pc1Based": 4,
@@ -14404,7 +15670,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14416,11 +15681,13 @@ Array [
     "subCategory": "Piano",
     "subCategoryPretty": "Piano",
     "voiceName": "Honkytonk KSP",
-    "voiceNamePretty": "Honkytonk KSP",
+    "voiceNamePretty": "Honkytonk",
     "voiceType": "Regular",
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 5,
@@ -14431,7 +15698,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14448,6 +15714,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": true,
     "lsb": 1,
     "msb": 0,
     "pc1Based": 5,
@@ -14458,7 +15726,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14470,11 +15737,13 @@ Array [
     "subCategory": "Piano",
     "subCategoryPretty": "Piano",
     "voiceName": "ElectricPiano1 KSP",
-    "voiceNamePretty": "Electric Piano 1 KSP",
+    "voiceNamePretty": "Electric Piano 1",
     "voiceType": "Regular",
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 18,
     "msb": 0,
     "pc1Based": 5,
@@ -14485,7 +15754,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14502,6 +15770,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 5,
@@ -14512,7 +15782,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14529,6 +15798,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 5,
@@ -14539,7 +15810,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14556,6 +15826,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 45,
     "msb": 0,
     "pc1Based": 5,
@@ -14566,7 +15838,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14583,6 +15854,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 5,
@@ -14593,7 +15866,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14610,6 +15882,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 6,
@@ -14620,7 +15894,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14637,6 +15910,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": true,
     "lsb": 1,
     "msb": 0,
     "pc1Based": 6,
@@ -14647,7 +15922,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14659,11 +15933,13 @@ Array [
     "subCategory": "Piano",
     "subCategoryPretty": "Piano",
     "voiceName": "ElectricPiano2 KSP",
-    "voiceNamePretty": "Electric Piano 2 KSP",
+    "voiceNamePretty": "Electric Piano 2",
     "voiceType": "Regular",
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 6,
@@ -14674,7 +15950,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14691,6 +15966,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 33,
     "msb": 0,
     "pc1Based": 6,
@@ -14701,7 +15978,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14718,6 +15994,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 34,
     "msb": 0,
     "pc1Based": 6,
@@ -14728,7 +16006,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14745,6 +16022,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 6,
@@ -14755,7 +16034,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14772,6 +16050,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 41,
     "msb": 0,
     "pc1Based": 6,
@@ -14782,7 +16062,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14799,6 +16078,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 42,
     "msb": 0,
     "pc1Based": 6,
@@ -14809,7 +16090,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14826,6 +16106,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 45,
     "msb": 0,
     "pc1Based": 6,
@@ -14836,7 +16118,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14853,6 +16134,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 7,
@@ -14863,7 +16146,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14880,6 +16162,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": true,
     "lsb": 1,
     "msb": 0,
     "pc1Based": 7,
@@ -14890,7 +16174,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14902,11 +16185,13 @@ Array [
     "subCategory": "Piano",
     "subCategoryPretty": "Piano",
     "voiceName": "Harpsi KSP",
-    "voiceNamePretty": "Harpsichord KSP",
+    "voiceNamePretty": "Harpsichord",
     "voiceType": "Regular",
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 25,
     "msb": 0,
     "pc1Based": 7,
@@ -14917,7 +16202,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14934,6 +16218,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 35,
     "msb": 0,
     "pc1Based": 7,
@@ -14944,7 +16230,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14961,6 +16246,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 8,
@@ -14971,7 +16258,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -14988,6 +16274,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": true,
     "lsb": 1,
     "msb": 0,
     "pc1Based": 8,
@@ -14998,7 +16286,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -15010,11 +16297,13 @@ Array [
     "subCategory": "Piano",
     "subCategoryPretty": "Piano",
     "voiceName": "Clavi KSP",
-    "voiceNamePretty": "Clavinet KSP",
+    "voiceNamePretty": "Clavinet",
     "voiceType": "Regular",
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 27,
     "msb": 0,
     "pc1Based": 8,
@@ -15025,7 +16314,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -15042,6 +16330,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 8,
@@ -15052,7 +16342,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -15069,6 +16358,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 8,
@@ -15079,7 +16370,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -15096,6 +16386,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 9,
@@ -15115,6 +16407,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 10,
@@ -15134,6 +16428,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 11,
@@ -15153,6 +16449,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 11,
@@ -15172,6 +16470,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 12,
@@ -15191,6 +16491,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": true,
     "lsb": 1,
     "msb": 0,
     "pc1Based": 12,
@@ -15205,11 +16507,13 @@ Array [
     "subCategory": "ChromaticPerc",
     "subCategoryPretty": "Chromatic Perc",
     "voiceName": "Vibraphone KSP",
-    "voiceNamePretty": "Vibraphone KSP",
+    "voiceNamePretty": "Vibraphone",
     "voiceType": "Regular",
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 45,
     "msb": 0,
     "pc1Based": 12,
@@ -15229,6 +16533,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 13,
@@ -15248,6 +16554,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": true,
     "lsb": 1,
     "msb": 0,
     "pc1Based": 13,
@@ -15262,11 +16570,13 @@ Array [
     "subCategory": "ChromaticPerc",
     "subCategoryPretty": "Chromatic Perc",
     "voiceName": "Marimba KSP",
-    "voiceNamePretty": "Marimba KSP",
+    "voiceNamePretty": "Marimba",
     "voiceType": "Regular",
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 13,
@@ -15286,6 +16596,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 97,
     "msb": 0,
     "pc1Based": 13,
@@ -15305,6 +16617,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 98,
     "msb": 0,
     "pc1Based": 13,
@@ -15324,6 +16638,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 14,
@@ -15343,6 +16659,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 15,
@@ -15362,6 +16680,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 96,
     "msb": 0,
     "pc1Based": 15,
@@ -15381,6 +16701,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 97,
     "msb": 0,
     "pc1Based": 15,
@@ -15400,6 +16722,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 16,
@@ -15419,6 +16743,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 35,
     "msb": 0,
     "pc1Based": 16,
@@ -15438,6 +16764,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 96,
     "msb": 0,
     "pc1Based": 16,
@@ -15457,6 +16785,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 97,
     "msb": 0,
     "pc1Based": 16,
@@ -15476,6 +16806,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 17,
@@ -15509,6 +16841,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 17,
@@ -15542,6 +16876,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 33,
     "msb": 0,
     "pc1Based": 17,
@@ -15575,6 +16911,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 34,
     "msb": 0,
     "pc1Based": 17,
@@ -15608,6 +16946,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 37,
     "msb": 0,
     "pc1Based": 17,
@@ -15641,6 +16981,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 35,
     "msb": 0,
     "pc1Based": 17,
@@ -15674,6 +17016,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 17,
@@ -15707,6 +17051,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 36,
     "msb": 0,
     "pc1Based": 17,
@@ -15740,6 +17086,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 38,
     "msb": 0,
     "pc1Based": 17,
@@ -15773,6 +17121,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 17,
@@ -15806,6 +17156,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 17,
@@ -15839,6 +17191,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 66,
     "msb": 0,
     "pc1Based": 17,
@@ -15872,6 +17226,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 67,
     "msb": 0,
     "pc1Based": 17,
@@ -15905,6 +17261,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 18,
@@ -15938,6 +17296,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 37,
     "msb": 0,
     "pc1Based": 18,
@@ -15971,6 +17331,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 24,
     "msb": 0,
     "pc1Based": 18,
@@ -16004,6 +17366,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 18,
@@ -16037,6 +17401,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 33,
     "msb": 0,
     "pc1Based": 18,
@@ -16070,6 +17436,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 19,
@@ -16103,6 +17471,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 19,
@@ -16136,6 +17506,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 19,
@@ -16169,6 +17541,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 66,
     "msb": 0,
     "pc1Based": 19,
@@ -16202,6 +17576,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 20,
@@ -16235,6 +17611,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 35,
     "msb": 0,
     "pc1Based": 20,
@@ -16268,6 +17646,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 20,
@@ -16301,6 +17681,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 20,
@@ -16334,6 +17716,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 20,
@@ -16367,6 +17751,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 20,
@@ -16400,6 +17786,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 21,
@@ -16433,6 +17821,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 21,
@@ -16466,6 +17856,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 22,
@@ -16499,6 +17891,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 22,
@@ -16532,6 +17926,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 23,
@@ -16565,6 +17961,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 23,
@@ -16598,6 +17996,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 24,
@@ -16631,6 +18031,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 24,
@@ -16664,6 +18066,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 25,
@@ -16689,6 +18093,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 16,
     "msb": 0,
     "pc1Based": 25,
@@ -16714,6 +18120,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 25,
     "msb": 0,
     "pc1Based": 25,
@@ -16739,6 +18147,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 43,
     "msb": 0,
     "pc1Based": 25,
@@ -16764,6 +18174,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 96,
     "msb": 0,
     "pc1Based": 25,
@@ -16789,6 +18201,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 26,
@@ -16814,6 +18228,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 16,
     "msb": 0,
     "pc1Based": 26,
@@ -16839,6 +18255,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 35,
     "msb": 0,
     "pc1Based": 26,
@@ -16864,6 +18282,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 26,
@@ -16889,6 +18309,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 41,
     "msb": 0,
     "pc1Based": 26,
@@ -16914,6 +18336,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 96,
     "msb": 0,
     "pc1Based": 26,
@@ -16939,6 +18363,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 27,
@@ -16964,6 +18390,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 18,
     "msb": 0,
     "pc1Based": 27,
@@ -16989,6 +18417,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 27,
@@ -17014,6 +18444,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 28,
@@ -17039,6 +18471,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 28,
@@ -17064,6 +18498,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 29,
@@ -17089,6 +18525,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 29,
@@ -17114,6 +18552,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 41,
     "msb": 0,
     "pc1Based": 29,
@@ -17139,6 +18579,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 43,
     "msb": 0,
     "pc1Based": 29,
@@ -17164,6 +18606,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 45,
     "msb": 0,
     "pc1Based": 29,
@@ -17189,6 +18633,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 30,
@@ -17214,6 +18660,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 43,
     "msb": 0,
     "pc1Based": 30,
@@ -17239,6 +18687,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 31,
@@ -17264,6 +18714,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 31,
@@ -17289,6 +18741,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 41,
     "msb": 0,
     "pc1Based": 31,
@@ -17314,6 +18768,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 32,
@@ -17339,6 +18795,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 32,
@@ -17364,6 +18822,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 66,
     "msb": 0,
     "pc1Based": 32,
@@ -17389,6 +18849,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 33,
@@ -17413,6 +18875,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 33,
@@ -17437,6 +18901,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 45,
     "msb": 0,
     "pc1Based": 33,
@@ -17461,6 +18927,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 34,
@@ -17485,6 +18953,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 18,
     "msb": 0,
     "pc1Based": 34,
@@ -17509,6 +18979,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 27,
     "msb": 0,
     "pc1Based": 34,
@@ -17533,6 +19005,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 34,
@@ -17557,6 +19031,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 43,
     "msb": 0,
     "pc1Based": 34,
@@ -17581,6 +19057,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 45,
     "msb": 0,
     "pc1Based": 34,
@@ -17605,6 +19083,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 34,
@@ -17629,6 +19109,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 35,
@@ -17653,6 +19135,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 28,
     "msb": 0,
     "pc1Based": 35,
@@ -17677,6 +19161,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 36,
@@ -17701,6 +19187,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 36,
@@ -17725,6 +19213,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 33,
     "msb": 0,
     "pc1Based": 36,
@@ -17749,6 +19239,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 34,
     "msb": 0,
     "pc1Based": 36,
@@ -17773,6 +19265,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 96,
     "msb": 0,
     "pc1Based": 36,
@@ -17797,6 +19291,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 97,
     "msb": 0,
     "pc1Based": 36,
@@ -17821,6 +19317,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 37,
@@ -17845,6 +19343,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 27,
     "msb": 0,
     "pc1Based": 37,
@@ -17869,6 +19369,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 37,
@@ -17893,6 +19395,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 38,
@@ -17917,6 +19421,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 43,
     "msb": 0,
     "pc1Based": 38,
@@ -17941,6 +19447,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 39,
@@ -17965,6 +19473,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 18,
     "msb": 0,
     "pc1Based": 39,
@@ -17989,6 +19499,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 20,
     "msb": 0,
     "pc1Based": 39,
@@ -18013,6 +19525,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 24,
     "msb": 0,
     "pc1Based": 39,
@@ -18037,6 +19551,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 35,
     "msb": 0,
     "pc1Based": 39,
@@ -18061,6 +19577,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 39,
@@ -18085,6 +19603,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 39,
@@ -18109,6 +19629,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 39,
@@ -18133,6 +19655,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 66,
     "msb": 0,
     "pc1Based": 39,
@@ -18157,6 +19681,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 96,
     "msb": 0,
     "pc1Based": 39,
@@ -18181,6 +19707,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 40,
@@ -18205,6 +19733,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 6,
     "msb": 0,
     "pc1Based": 40,
@@ -18229,6 +19759,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 12,
     "msb": 0,
     "pc1Based": 40,
@@ -18253,6 +19785,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 18,
     "msb": 0,
     "pc1Based": 40,
@@ -18277,6 +19811,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 19,
     "msb": 0,
     "pc1Based": 40,
@@ -18301,6 +19837,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 40,
@@ -18325,6 +19863,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 40,
@@ -18349,6 +19889,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 41,
     "msb": 0,
     "pc1Based": 40,
@@ -18373,6 +19915,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 40,
@@ -18397,6 +19941,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 41,
@@ -18418,6 +19964,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 8,
     "msb": 0,
     "pc1Based": 41,
@@ -18439,6 +19987,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 42,
@@ -18460,6 +20010,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 43,
@@ -18481,6 +20033,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 44,
@@ -18502,6 +20056,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 45,
@@ -18523,6 +20079,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 8,
     "msb": 0,
     "pc1Based": 45,
@@ -18544,6 +20102,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 45,
@@ -18565,6 +20125,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 46,
@@ -18586,6 +20148,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 47,
@@ -18607,6 +20171,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 47,
@@ -18628,6 +20194,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 48,
@@ -18649,6 +20217,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 49,
@@ -18671,6 +20241,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 0,
     "pc1Based": 49,
@@ -18693,6 +20265,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 8,
     "msb": 0,
     "pc1Based": 49,
@@ -18715,6 +20289,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 24,
     "msb": 0,
     "pc1Based": 49,
@@ -18737,6 +20313,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 35,
     "msb": 0,
     "pc1Based": 49,
@@ -18759,6 +20337,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 49,
@@ -18781,6 +20361,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 41,
     "msb": 0,
     "pc1Based": 49,
@@ -18803,6 +20385,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 42,
     "msb": 0,
     "pc1Based": 49,
@@ -18825,6 +20409,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 45,
     "msb": 0,
     "pc1Based": 49,
@@ -18847,6 +20433,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 50,
@@ -18869,6 +20457,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 0,
     "pc1Based": 50,
@@ -18891,6 +20481,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 8,
     "msb": 0,
     "pc1Based": 50,
@@ -18913,6 +20505,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 50,
@@ -18935,6 +20529,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 41,
     "msb": 0,
     "pc1Based": 50,
@@ -18957,6 +20553,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 50,
@@ -18979,6 +20577,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 50,
@@ -19001,6 +20601,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 51,
@@ -19023,6 +20625,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 27,
     "msb": 0,
     "pc1Based": 51,
@@ -19045,6 +20649,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 51,
@@ -19067,6 +20673,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 51,
@@ -19089,6 +20697,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 52,
@@ -19111,6 +20721,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 53,
@@ -19133,6 +20745,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 0,
     "pc1Based": 53,
@@ -19155,6 +20769,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 16,
     "msb": 0,
     "pc1Based": 53,
@@ -19177,6 +20793,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 53,
@@ -19199,6 +20817,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 53,
@@ -19221,6 +20841,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 54,
@@ -19243,6 +20865,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 55,
@@ -19265,6 +20889,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 55,
@@ -19287,6 +20913,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 41,
     "msb": 0,
     "pc1Based": 55,
@@ -19309,6 +20937,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 55,
@@ -19331,6 +20961,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 56,
@@ -19353,6 +20985,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 35,
     "msb": 0,
     "pc1Based": 56,
@@ -19375,6 +21009,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 56,
@@ -19397,6 +21033,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 57,
@@ -19423,6 +21061,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 16,
     "msb": 0,
     "pc1Based": 57,
@@ -19449,6 +21089,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 17,
     "msb": 0,
     "pc1Based": 57,
@@ -19475,6 +21117,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 57,
@@ -19501,6 +21145,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 58,
@@ -19527,6 +21173,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 18,
     "msb": 0,
     "pc1Based": 58,
@@ -19553,6 +21201,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 59,
@@ -19579,6 +21229,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 16,
     "msb": 0,
     "pc1Based": 59,
@@ -19605,6 +21257,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 60,
@@ -19631,6 +21285,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 61,
@@ -19657,6 +21313,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 6,
     "msb": 0,
     "pc1Based": 61,
@@ -19683,6 +21341,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 61,
@@ -19709,6 +21369,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 37,
     "msb": 0,
     "pc1Based": 61,
@@ -19735,6 +21397,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 62,
@@ -19761,6 +21425,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 35,
     "msb": 0,
     "pc1Based": 62,
@@ -19787,6 +21453,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 62,
@@ -19813,6 +21481,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 41,
     "msb": 0,
     "pc1Based": 62,
@@ -19839,6 +21509,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 42,
     "msb": 0,
     "pc1Based": 62,
@@ -19865,6 +21537,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 63,
@@ -19891,6 +21565,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 12,
     "msb": 0,
     "pc1Based": 63,
@@ -19917,6 +21593,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 20,
     "msb": 0,
     "pc1Based": 63,
@@ -19943,6 +21621,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 24,
     "msb": 0,
     "pc1Based": 63,
@@ -19969,6 +21649,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 27,
     "msb": 0,
     "pc1Based": 63,
@@ -19995,6 +21677,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 63,
@@ -20021,6 +21705,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 45,
     "msb": 0,
     "pc1Based": 63,
@@ -20047,6 +21733,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 63,
@@ -20073,6 +21761,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 64,
@@ -20099,6 +21789,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 18,
     "msb": 0,
     "pc1Based": 64,
@@ -20125,6 +21817,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 64,
@@ -20151,6 +21845,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 41,
     "msb": 0,
     "pc1Based": 64,
@@ -20177,6 +21873,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 45,
     "msb": 0,
     "pc1Based": 64,
@@ -20203,6 +21901,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 64,
@@ -20229,6 +21929,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 65,
@@ -20245,6 +21947,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 66,
@@ -20261,6 +21965,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 66,
@@ -20277,6 +21983,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 43,
     "msb": 0,
     "pc1Based": 66,
@@ -20293,6 +22001,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 67,
@@ -20309,6 +22019,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 67,
@@ -20325,6 +22037,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 41,
     "msb": 0,
     "pc1Based": 67,
@@ -20341,6 +22055,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 67,
@@ -20357,6 +22073,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 68,
@@ -20373,6 +22091,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 69,
@@ -20389,6 +22109,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 70,
@@ -20405,6 +22127,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 71,
@@ -20421,6 +22145,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 72,
@@ -20437,6 +22163,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 73,
@@ -20451,6 +22179,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 74,
@@ -20465,6 +22195,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 75,
@@ -20479,6 +22211,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 76,
@@ -20493,6 +22227,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 77,
@@ -20507,6 +22243,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 78,
@@ -20521,6 +22259,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 79,
@@ -20535,6 +22275,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 80,
@@ -20549,6 +22291,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 81,
@@ -20575,6 +22319,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 6,
     "msb": 0,
     "pc1Based": 81,
@@ -20601,6 +22347,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 8,
     "msb": 0,
     "pc1Based": 81,
@@ -20627,6 +22375,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 18,
     "msb": 0,
     "pc1Based": 81,
@@ -20653,6 +22403,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 19,
     "msb": 0,
     "pc1Based": 81,
@@ -20679,6 +22431,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 81,
@@ -20705,6 +22459,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 81,
@@ -20731,6 +22487,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 66,
     "msb": 0,
     "pc1Based": 81,
@@ -20757,6 +22515,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 82,
@@ -20783,6 +22543,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 6,
     "msb": 0,
     "pc1Based": 82,
@@ -20809,6 +22571,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 8,
     "msb": 0,
     "pc1Based": 82,
@@ -20835,6 +22599,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 18,
     "msb": 0,
     "pc1Based": 82,
@@ -20861,6 +22627,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 19,
     "msb": 0,
     "pc1Based": 82,
@@ -20887,6 +22655,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 20,
     "msb": 0,
     "pc1Based": 82,
@@ -20913,6 +22683,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 24,
     "msb": 0,
     "pc1Based": 82,
@@ -20939,6 +22711,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 25,
     "msb": 0,
     "pc1Based": 82,
@@ -20965,6 +22739,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 82,
@@ -20991,6 +22767,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 41,
     "msb": 0,
     "pc1Based": 82,
@@ -21017,6 +22795,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 45,
     "msb": 0,
     "pc1Based": 82,
@@ -21043,6 +22823,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 96,
     "msb": 0,
     "pc1Based": 82,
@@ -21069,6 +22851,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 83,
@@ -21095,6 +22879,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 83,
@@ -21121,6 +22907,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 84,
@@ -21147,6 +22935,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 84,
@@ -21173,6 +22963,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 85,
@@ -21199,6 +22991,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 85,
@@ -21225,6 +23019,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 85,
@@ -21251,6 +23047,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 86,
@@ -21277,6 +23075,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 24,
     "msb": 0,
     "pc1Based": 86,
@@ -21303,6 +23103,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 86,
@@ -21329,6 +23131,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 87,
@@ -21355,6 +23159,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 35,
     "msb": 0,
     "pc1Based": 87,
@@ -21381,6 +23187,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 88,
@@ -21407,6 +23215,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 16,
     "msb": 0,
     "pc1Based": 88,
@@ -21433,6 +23243,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 88,
@@ -21459,6 +23271,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 88,
@@ -21485,6 +23299,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 89,
@@ -21511,6 +23327,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 89,
@@ -21537,6 +23355,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 90,
@@ -21563,6 +23383,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 16,
     "msb": 0,
     "pc1Based": 90,
@@ -21589,6 +23411,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 17,
     "msb": 0,
     "pc1Based": 90,
@@ -21615,6 +23439,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 18,
     "msb": 0,
     "pc1Based": 90,
@@ -21641,6 +23467,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 90,
@@ -21667,6 +23495,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 90,
@@ -21693,6 +23523,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 91,
@@ -21719,6 +23551,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 91,
@@ -21745,6 +23579,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 91,
@@ -21771,6 +23607,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 66,
     "msb": 0,
     "pc1Based": 91,
@@ -21797,6 +23635,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 67,
     "msb": 0,
     "pc1Based": 91,
@@ -21823,6 +23663,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 92,
@@ -21849,6 +23691,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 92,
@@ -21875,6 +23719,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 66,
     "msb": 0,
     "pc1Based": 92,
@@ -21901,6 +23747,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 67,
     "msb": 0,
     "pc1Based": 92,
@@ -21927,6 +23775,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 93,
@@ -21953,6 +23803,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 93,
@@ -21979,6 +23831,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 93,
@@ -22005,6 +23859,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 94,
@@ -22031,6 +23887,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 94,
@@ -22057,6 +23915,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 94,
@@ -22083,6 +23943,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 95,
@@ -22109,6 +23971,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 96,
@@ -22135,6 +23999,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 20,
     "msb": 0,
     "pc1Based": 96,
@@ -22161,6 +24027,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 27,
     "msb": 0,
     "pc1Based": 96,
@@ -22187,6 +24055,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 96,
@@ -22213,6 +24083,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 66,
     "msb": 0,
     "pc1Based": 96,
@@ -22239,6 +24111,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 97,
@@ -22265,6 +24139,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 45,
     "msb": 0,
     "pc1Based": 97,
@@ -22291,6 +24167,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 97,
@@ -22317,6 +24195,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 97,
@@ -22343,6 +24223,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 66,
     "msb": 0,
     "pc1Based": 97,
@@ -22369,6 +24251,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 98,
@@ -22395,6 +24279,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 27,
     "msb": 0,
     "pc1Based": 98,
@@ -22421,6 +24307,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 98,
@@ -22447,6 +24335,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 99,
@@ -22473,6 +24363,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 12,
     "msb": 0,
     "pc1Based": 99,
@@ -22499,6 +24391,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 14,
     "msb": 0,
     "pc1Based": 99,
@@ -22525,6 +24419,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 18,
     "msb": 0,
     "pc1Based": 99,
@@ -22551,6 +24447,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 35,
     "msb": 0,
     "pc1Based": 99,
@@ -22577,6 +24475,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 99,
@@ -22603,6 +24503,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 41,
     "msb": 0,
     "pc1Based": 99,
@@ -22629,6 +24531,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 42,
     "msb": 0,
     "pc1Based": 99,
@@ -22655,6 +24559,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 99,
@@ -22681,6 +24587,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 99,
@@ -22707,6 +24615,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 66,
     "msb": 0,
     "pc1Based": 99,
@@ -22733,6 +24643,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 67,
     "msb": 0,
     "pc1Based": 99,
@@ -22759,6 +24671,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 68,
     "msb": 0,
     "pc1Based": 99,
@@ -22785,6 +24699,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 69,
     "msb": 0,
     "pc1Based": 99,
@@ -22811,6 +24727,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 70,
     "msb": 0,
     "pc1Based": 99,
@@ -22837,6 +24755,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 71,
     "msb": 0,
     "pc1Based": 99,
@@ -22863,6 +24783,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 72,
     "msb": 0,
     "pc1Based": 99,
@@ -22889,6 +24811,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 100,
@@ -22915,6 +24839,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 18,
     "msb": 0,
     "pc1Based": 100,
@@ -22941,6 +24867,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 19,
     "msb": 0,
     "pc1Based": 100,
@@ -22967,6 +24895,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 40,
     "msb": 0,
     "pc1Based": 100,
@@ -22993,6 +24923,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 100,
@@ -23019,6 +24951,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 100,
@@ -23045,6 +24979,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 66,
     "msb": 0,
     "pc1Based": 100,
@@ -23071,6 +25007,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 67,
     "msb": 0,
     "pc1Based": 100,
@@ -23097,6 +25035,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 101,
@@ -23123,6 +25063,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 101,
@@ -23149,6 +25091,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 96,
     "msb": 0,
     "pc1Based": 101,
@@ -23175,6 +25119,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 102,
@@ -23201,6 +25147,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 102,
@@ -23227,6 +25175,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 102,
@@ -23253,6 +25203,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 66,
     "msb": 0,
     "pc1Based": 102,
@@ -23279,6 +25231,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 67,
     "msb": 0,
     "pc1Based": 102,
@@ -23305,6 +25259,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 68,
     "msb": 0,
     "pc1Based": 102,
@@ -23331,6 +25287,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 70,
     "msb": 0,
     "pc1Based": 102,
@@ -23357,6 +25315,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 71,
     "msb": 0,
     "pc1Based": 102,
@@ -23383,6 +25343,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 96,
     "msb": 0,
     "pc1Based": 102,
@@ -23409,6 +25371,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 103,
@@ -23435,6 +25399,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 8,
     "msb": 0,
     "pc1Based": 103,
@@ -23461,6 +25427,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 14,
     "msb": 0,
     "pc1Based": 103,
@@ -23487,6 +25455,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 103,
@@ -23513,6 +25483,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 103,
@@ -23539,6 +25511,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 66,
     "msb": 0,
     "pc1Based": 103,
@@ -23565,6 +25539,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 67,
     "msb": 0,
     "pc1Based": 103,
@@ -23591,6 +25567,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 68,
     "msb": 0,
     "pc1Based": 103,
@@ -23617,6 +25595,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 69,
     "msb": 0,
     "pc1Based": 103,
@@ -23643,6 +25623,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 104,
@@ -23669,6 +25651,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 104,
@@ -23695,6 +25679,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 105,
@@ -23714,6 +25700,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 32,
     "msb": 0,
     "pc1Based": 105,
@@ -23733,6 +25721,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 35,
     "msb": 0,
     "pc1Based": 105,
@@ -23752,6 +25742,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 96,
     "msb": 0,
     "pc1Based": 105,
@@ -23771,6 +25763,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 97,
     "msb": 0,
     "pc1Based": 105,
@@ -23790,6 +25784,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 106,
@@ -23809,6 +25805,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 28,
     "msb": 0,
     "pc1Based": 106,
@@ -23828,6 +25826,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 96,
     "msb": 0,
     "pc1Based": 106,
@@ -23847,6 +25847,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 97,
     "msb": 0,
     "pc1Based": 106,
@@ -23866,6 +25868,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 98,
     "msb": 0,
     "pc1Based": 106,
@@ -23885,6 +25889,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 107,
@@ -23904,6 +25910,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 108,
@@ -23923,6 +25931,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 96,
     "msb": 0,
     "pc1Based": 108,
@@ -23942,6 +25952,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 97,
     "msb": 0,
     "pc1Based": 108,
@@ -23961,6 +25973,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 109,
@@ -23980,6 +25994,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 110,
@@ -23999,6 +26015,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 111,
@@ -24018,6 +26036,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 112,
@@ -24037,6 +26057,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 112,
@@ -24056,6 +26078,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 96,
     "msb": 0,
     "pc1Based": 112,
@@ -24075,6 +26099,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 97,
     "msb": 0,
     "pc1Based": 112,
@@ -24094,6 +26120,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 113,
@@ -24111,6 +26139,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 96,
     "msb": 0,
     "pc1Based": 113,
@@ -24128,6 +26158,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 97,
     "msb": 0,
     "pc1Based": 113,
@@ -24145,6 +26177,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 98,
     "msb": 0,
     "pc1Based": 113,
@@ -24162,6 +26196,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 99,
     "msb": 0,
     "pc1Based": 113,
@@ -24179,6 +26215,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 100,
     "msb": 0,
     "pc1Based": 113,
@@ -24196,6 +26234,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 101,
     "msb": 0,
     "pc1Based": 113,
@@ -24213,6 +26253,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 114,
@@ -24230,6 +26272,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 115,
@@ -24247,6 +26291,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 97,
     "msb": 0,
     "pc1Based": 115,
@@ -24264,6 +26310,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 98,
     "msb": 0,
     "pc1Based": 115,
@@ -24281,6 +26329,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 116,
@@ -24298,6 +26348,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 96,
     "msb": 0,
     "pc1Based": 116,
@@ -24315,6 +26367,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 117,
@@ -24332,6 +26386,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 96,
     "msb": 0,
     "pc1Based": 117,
@@ -24349,6 +26405,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 118,
@@ -24366,6 +26424,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 118,
@@ -24383,6 +26443,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 118,
@@ -24400,6 +26462,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 66,
     "msb": 0,
     "pc1Based": 118,
@@ -24417,6 +26481,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 119,
@@ -24434,6 +26500,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 64,
     "msb": 0,
     "pc1Based": 119,
@@ -24451,6 +26519,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 65,
     "msb": 0,
     "pc1Based": 119,
@@ -24468,6 +26538,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 120,
@@ -24485,6 +26557,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 121,
@@ -24511,6 +26585,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 122,
@@ -24537,6 +26613,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 123,
@@ -24563,6 +26641,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 124,
@@ -24589,6 +26669,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 125,
@@ -24615,6 +26697,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 126,
@@ -24641,6 +26725,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 127,
@@ -24667,6 +26753,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 0,
     "pc1Based": 128,
@@ -24693,6 +26781,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 1,
@@ -24719,6 +26809,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 2,
@@ -24745,6 +26837,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 4,
@@ -24771,6 +26865,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 17,
@@ -24797,6 +26893,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 33,
@@ -24823,6 +26921,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 34,
@@ -24849,6 +26949,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 35,
@@ -24875,6 +26977,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 36,
@@ -24901,6 +27005,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 37,
@@ -24927,6 +27033,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 38,
@@ -24953,6 +27061,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 49,
@@ -24979,6 +27089,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 50,
@@ -25005,6 +27117,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 51,
@@ -25031,6 +27145,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 55,
@@ -25057,6 +27173,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 56,
@@ -25083,6 +27201,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 65,
@@ -25109,6 +27229,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 66,
@@ -25135,6 +27257,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 67,
@@ -25161,6 +27285,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 68,
@@ -25187,6 +27313,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 69,
@@ -25213,6 +27341,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 70,
@@ -25239,6 +27369,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 71,
@@ -25265,6 +27397,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 81,
@@ -25291,6 +27425,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 82,
@@ -25317,6 +27453,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 83,
@@ -25343,6 +27481,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 84,
@@ -25369,6 +27509,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 85,
@@ -25395,6 +27537,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 86,
@@ -25421,6 +27565,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 87,
@@ -25447,6 +27593,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 88,
@@ -25473,6 +27621,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 89,
@@ -25499,6 +27649,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 90,
@@ -25525,6 +27677,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 91,
@@ -25551,6 +27705,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 97,
@@ -25577,6 +27733,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 98,
@@ -25603,6 +27761,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 99,
@@ -25629,6 +27789,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 100,
@@ -25655,6 +27817,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 101,
@@ -25681,6 +27845,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 113,
@@ -25707,6 +27873,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 114,
@@ -25733,6 +27901,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 115,
@@ -25759,6 +27929,8 @@ Array [
   },
   Object {
     "category": "GM & XG",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 64,
     "pc1Based": 116,
@@ -25785,6 +27957,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 1,
@@ -25795,7 +27969,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -25812,6 +27985,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 1,
@@ -25822,7 +27997,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -25839,6 +28013,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 1,
@@ -25849,7 +28025,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -25866,6 +28041,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 2,
@@ -25876,7 +28053,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -25893,6 +28069,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 2,
@@ -25903,7 +28081,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -25920,6 +28097,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 3,
@@ -25930,7 +28109,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -25947,6 +28125,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 3,
@@ -25957,7 +28137,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -25974,6 +28153,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 4,
@@ -25984,7 +28165,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26001,6 +28181,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 4,
@@ -26011,7 +28193,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26028,6 +28209,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 5,
@@ -26038,7 +28221,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26055,6 +28237,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 5,
@@ -26065,7 +28249,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26082,6 +28265,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 5,
@@ -26092,7 +28277,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26109,6 +28293,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 5,
@@ -26119,7 +28305,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26136,6 +28321,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 6,
@@ -26146,7 +28333,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26163,6 +28349,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 6,
@@ -26173,7 +28361,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26190,6 +28377,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 6,
@@ -26200,7 +28389,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26217,6 +28405,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 6,
@@ -26227,7 +28417,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26244,6 +28433,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 4,
     "msb": 121,
     "pc1Based": 6,
@@ -26254,7 +28445,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26271,6 +28461,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 7,
@@ -26281,7 +28473,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26298,6 +28489,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 7,
@@ -26308,7 +28501,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26325,6 +28517,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 7,
@@ -26335,7 +28529,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26352,6 +28545,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 7,
@@ -26362,7 +28557,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26379,6 +28573,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 8,
@@ -26389,7 +28585,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26406,6 +28601,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 8,
@@ -26416,7 +28613,6 @@ Array [
       "Harpsichord",
       "1",
       "2",
-      "KSP",
       "Clavinet",
       "Bright",
       "DX",
@@ -26433,6 +28629,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 9,
@@ -26452,6 +28650,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 10,
@@ -26471,6 +28671,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 11,
@@ -26490,6 +28692,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 12,
@@ -26509,6 +28713,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 12,
@@ -26528,6 +28734,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 13,
@@ -26547,6 +28755,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 13,
@@ -26566,6 +28776,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 14,
@@ -26585,6 +28797,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 15,
@@ -26604,6 +28818,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 15,
@@ -26623,6 +28839,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 15,
@@ -26642,6 +28860,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 16,
@@ -26661,6 +28881,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 17,
@@ -26694,6 +28916,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 17,
@@ -26727,6 +28951,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 17,
@@ -26760,6 +28986,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 17,
@@ -26793,6 +29021,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 18,
@@ -26826,6 +29056,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 18,
@@ -26859,6 +29091,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 18,
@@ -26892,6 +29126,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 19,
@@ -26925,6 +29161,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 20,
@@ -26958,6 +29196,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 20,
@@ -26991,6 +29231,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 20,
@@ -27024,6 +29266,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 21,
@@ -27057,6 +29301,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 21,
@@ -27090,6 +29336,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 22,
@@ -27123,6 +29371,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 22,
@@ -27156,6 +29406,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 23,
@@ -27189,6 +29441,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 24,
@@ -27222,6 +29476,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 25,
@@ -27247,6 +29503,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 25,
@@ -27272,6 +29530,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 25,
@@ -27297,6 +29557,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 25,
@@ -27322,6 +29584,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 26,
@@ -27347,6 +29611,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 26,
@@ -27372,6 +29638,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 26,
@@ -27397,6 +29665,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 26,
@@ -27422,6 +29692,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 27,
@@ -27447,6 +29719,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 27,
@@ -27472,6 +29746,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 28,
@@ -27497,6 +29773,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 28,
@@ -27522,6 +29800,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 28,
@@ -27547,6 +29827,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 29,
@@ -27572,6 +29854,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 29,
@@ -27597,6 +29881,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 29,
@@ -27622,6 +29908,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 29,
@@ -27647,6 +29935,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 30,
@@ -27672,6 +29962,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 30,
@@ -27697,6 +29989,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 31,
@@ -27722,6 +30016,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 31,
@@ -27747,6 +30043,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 31,
@@ -27772,6 +30070,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 32,
@@ -27797,6 +30097,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 32,
@@ -27822,6 +30124,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 33,
@@ -27846,6 +30150,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 34,
@@ -27870,6 +30176,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 34,
@@ -27894,6 +30202,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 35,
@@ -27918,6 +30228,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 36,
@@ -27942,6 +30254,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 37,
@@ -27966,6 +30280,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 38,
@@ -27990,6 +30306,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 39,
@@ -28014,6 +30332,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 39,
@@ -28038,6 +30358,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 39,
@@ -28062,6 +30384,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 39,
@@ -28086,6 +30410,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 4,
     "msb": 121,
     "pc1Based": 39,
@@ -28110,6 +30436,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 40,
@@ -28134,6 +30462,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 40,
@@ -28158,6 +30488,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 40,
@@ -28182,6 +30514,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 40,
@@ -28206,6 +30540,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 41,
@@ -28227,6 +30563,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 41,
@@ -28248,6 +30586,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 42,
@@ -28269,6 +30609,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 43,
@@ -28290,6 +30632,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 44,
@@ -28311,6 +30655,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 45,
@@ -28332,6 +30678,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 46,
@@ -28353,6 +30701,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 47,
@@ -28374,6 +30724,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 47,
@@ -28395,6 +30747,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 48,
@@ -28416,6 +30770,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 49,
@@ -28438,6 +30794,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 49,
@@ -28460,6 +30818,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 49,
@@ -28482,6 +30842,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 50,
@@ -28504,6 +30866,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 51,
@@ -28526,6 +30890,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 52,
@@ -28548,6 +30914,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 51,
@@ -28570,6 +30938,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 53,
@@ -28592,6 +30962,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 53,
@@ -28614,6 +30986,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 54,
@@ -28636,6 +31010,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 54,
@@ -28658,6 +31034,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 55,
@@ -28680,6 +31058,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 55,
@@ -28702,6 +31082,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 56,
@@ -28724,6 +31106,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 56,
@@ -28746,6 +31130,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 56,
@@ -28768,6 +31154,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 56,
@@ -28790,6 +31178,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 57,
@@ -28816,6 +31206,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 57,
@@ -28842,6 +31234,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 58,
@@ -28868,6 +31262,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 58,
@@ -28894,6 +31290,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 58,
@@ -28920,6 +31318,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 59,
@@ -28946,6 +31346,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 60,
@@ -28972,6 +31374,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 60,
@@ -28998,6 +31402,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 61,
@@ -29024,6 +31430,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 61,
@@ -29050,6 +31458,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 62,
@@ -29076,6 +31486,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 62,
@@ -29102,6 +31514,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 63,
@@ -29128,6 +31542,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 64,
@@ -29154,6 +31570,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 63,
@@ -29180,6 +31598,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 64,
@@ -29206,6 +31626,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 63,
@@ -29232,6 +31654,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 64,
@@ -29258,6 +31682,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 63,
@@ -29284,6 +31710,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 65,
@@ -29300,6 +31728,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 66,
@@ -29316,6 +31746,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 67,
@@ -29332,6 +31764,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 68,
@@ -29348,6 +31782,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 69,
@@ -29364,6 +31800,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 70,
@@ -29380,6 +31818,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 71,
@@ -29396,6 +31836,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 72,
@@ -29412,6 +31854,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 73,
@@ -29426,6 +31870,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 74,
@@ -29440,6 +31886,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 75,
@@ -29454,6 +31902,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 76,
@@ -29468,6 +31918,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 77,
@@ -29482,6 +31934,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 78,
@@ -29496,6 +31950,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 79,
@@ -29510,6 +31966,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 80,
@@ -29524,6 +31982,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 81,
@@ -29550,6 +32010,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 81,
@@ -29576,6 +32038,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 81,
@@ -29602,6 +32066,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 82,
@@ -29628,6 +32094,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 82,
@@ -29654,6 +32122,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 82,
@@ -29680,6 +32150,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 82,
@@ -29706,6 +32178,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 4,
     "msb": 121,
     "pc1Based": 82,
@@ -29732,6 +32206,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 83,
@@ -29758,6 +32234,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 84,
@@ -29784,6 +32262,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 85,
@@ -29810,6 +32290,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 85,
@@ -29836,6 +32318,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 86,
@@ -29862,6 +32346,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 87,
@@ -29888,6 +32374,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 88,
@@ -29914,6 +32402,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 88,
@@ -29940,6 +32430,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 89,
@@ -29954,6 +32446,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 90,
@@ -29968,6 +32462,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 90,
@@ -29982,6 +32478,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 91,
@@ -29996,6 +32494,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 92,
@@ -30010,6 +32510,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 92,
@@ -30024,6 +32526,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 93,
@@ -30038,6 +32542,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 94,
@@ -30052,6 +32558,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 95,
@@ -30066,6 +32574,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 96,
@@ -30080,6 +32590,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 97,
@@ -30106,6 +32618,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 98,
@@ -30132,6 +32646,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 99,
@@ -30158,6 +32674,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 99,
@@ -30184,6 +32702,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 100,
@@ -30210,6 +32730,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 101,
@@ -30236,6 +32758,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 102,
@@ -30262,6 +32786,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 103,
@@ -30288,6 +32814,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 103,
@@ -30314,6 +32842,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 103,
@@ -30340,6 +32870,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 104,
@@ -30366,6 +32898,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 105,
@@ -30385,6 +32919,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 105,
@@ -30404,6 +32940,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 106,
@@ -30423,6 +32961,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 107,
@@ -30442,6 +32982,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 108,
@@ -30461,6 +33003,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 108,
@@ -30480,6 +33024,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 109,
@@ -30499,6 +33045,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 110,
@@ -30518,6 +33066,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 111,
@@ -30537,6 +33087,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 112,
@@ -30556,6 +33108,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 113,
@@ -30573,6 +33127,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 114,
@@ -30590,6 +33146,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 115,
@@ -30607,6 +33165,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 116,
@@ -30624,6 +33184,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 116,
@@ -30641,6 +33203,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 117,
@@ -30658,6 +33222,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 117,
@@ -30675,6 +33241,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 118,
@@ -30692,6 +33260,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 118,
@@ -30709,6 +33279,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 119,
@@ -30726,6 +33298,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 119,
@@ -30743,6 +33317,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 119,
@@ -30760,6 +33336,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 120,
@@ -30777,6 +33355,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 121,
@@ -30803,6 +33383,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 121,
@@ -30829,6 +33411,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 121,
@@ -30855,6 +33439,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 122,
@@ -30881,6 +33467,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 122,
@@ -30907,6 +33495,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 123,
@@ -30933,6 +33523,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 123,
@@ -30959,6 +33551,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 123,
@@ -30985,6 +33579,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 123,
@@ -31011,6 +33607,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 4,
     "msb": 121,
     "pc1Based": 123,
@@ -31037,6 +33635,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 5,
     "msb": 121,
     "pc1Based": 123,
@@ -31063,6 +33663,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 124,
@@ -31089,6 +33691,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 124,
@@ -31115,6 +33719,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 124,
@@ -31141,6 +33747,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 124,
@@ -31167,6 +33775,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 125,
@@ -31193,6 +33803,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 125,
@@ -31219,6 +33831,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 125,
@@ -31245,6 +33859,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 125,
@@ -31271,6 +33887,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 4,
     "msb": 121,
     "pc1Based": 125,
@@ -31297,6 +33915,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 5,
     "msb": 121,
     "pc1Based": 125,
@@ -31323,6 +33943,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 126,
@@ -31349,6 +33971,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 126,
@@ -31375,6 +33999,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 126,
@@ -31401,6 +34027,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 126,
@@ -31427,6 +34055,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 4,
     "msb": 121,
     "pc1Based": 126,
@@ -31453,6 +34083,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 5,
     "msb": 121,
     "pc1Based": 126,
@@ -31479,6 +34111,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 6,
     "msb": 121,
     "pc1Based": 126,
@@ -31505,6 +34139,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 7,
     "msb": 121,
     "pc1Based": 126,
@@ -31531,6 +34167,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 8,
     "msb": 121,
     "pc1Based": 126,
@@ -31557,6 +34195,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 9,
     "msb": 121,
     "pc1Based": 126,
@@ -31583,6 +34223,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 127,
@@ -31609,6 +34251,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 127,
@@ -31635,6 +34279,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 127,
@@ -31661,6 +34307,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 127,
@@ -31687,6 +34335,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 4,
     "msb": 121,
     "pc1Based": 127,
@@ -31713,6 +34363,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 5,
     "msb": 121,
     "pc1Based": 127,
@@ -31739,6 +34391,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 0,
     "msb": 121,
     "pc1Based": 128,
@@ -31765,6 +34419,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 1,
     "msb": 121,
     "pc1Based": 128,
@@ -31791,6 +34447,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 2,
     "msb": 121,
     "pc1Based": 128,
@@ -31817,6 +34475,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": true,
+    "isKSP": false,
     "lsb": 3,
     "msb": 121,
     "pc1Based": 128,
@@ -31843,6 +34503,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 120,
     "pc1Based": 1,
@@ -31857,6 +34519,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 120,
     "pc1Based": 9,
@@ -31871,6 +34535,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 120,
     "pc1Based": 17,
@@ -31885,6 +34551,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 120,
     "pc1Based": 25,
@@ -31899,6 +34567,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 120,
     "pc1Based": 26,
@@ -31913,6 +34583,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 120,
     "pc1Based": 33,
@@ -31927,6 +34599,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 120,
     "pc1Based": 41,
@@ -31941,6 +34615,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 120,
     "pc1Based": 49,
@@ -31955,6 +34631,8 @@ Array [
   },
   Object {
     "category": "GM2",
+    "isHidden": false,
+    "isKSP": false,
     "lsb": 0,
     "msb": 120,
     "pc1Based": 57,

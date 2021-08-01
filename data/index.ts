@@ -4,10 +4,55 @@ import { Document as DocumentIndex } from 'flexsearch';
 
 const allVoices = rawData.map((voice) => ({
   ...voice,
+  isKSP: voice.voiceName.endsWith(' KSP'),
   voiceNamePretty: prettify(voice.voiceName),
   subCategoryPretty: prettify(voice.subCategory),
   relatedNames: [],
+  isHidden: false,
 }));
+
+// Dedupe KSP/non KSP voices
+const kspVoiceKeys = new Set();
+for (const voice of allVoices) {
+  if (voice.isKSP) {
+    kspVoiceKeys.add(
+      [
+        voice.voiceNamePretty,
+        voice.subCategoryPretty,
+        voice.voiceType,
+        voice.category,
+      ].join('\0')
+    );
+  }
+}
+for (const voice of allVoices) {
+  if (
+    !voice.isKSP &&
+    kspVoiceKeys.has(
+      [
+        voice.voiceNamePretty,
+        voice.subCategoryPretty,
+        voice.voiceType,
+        voice.category,
+      ].join('\0')
+    )
+  ) {
+    voice.isHidden = true;
+  }
+}
+
+// Dedupe voices with identical names
+const visibleVoiceKeys = new Set();
+for (const voice of allVoices) {
+  const key = [voice.voiceNamePretty].join('\0');
+  if (!voice.isHidden) {
+    if (visibleVoiceKeys.has(key)) {
+      voice.isHidden = true;
+    } else {
+      visibleVoiceKeys.add(key);
+    }
+  }
+}
 
 const relatedNamesByGroupMut: { [group: string]: string } = {};
 for (const voice of allVoices) {
@@ -56,7 +101,9 @@ const voicesIndex = new DocumentIndex({
 });
 
 allVoices.forEach((voice, id) => {
-  voicesIndex.add(id, voice);
+  if (!voice.isHidden) {
+    voicesIndex.add(id, voice);
+  }
 });
 
 export { allVoices, voicesIndex };
@@ -150,6 +197,7 @@ function normalizeFull(voiceName: string) {
 }
 
 function prettify(voiceName: string) {
+  voiceName = voiceName.replace(/ KSP$/, '');
   return normalizeFull(tokenize(voiceName).map(normalizeToken).join(' '))
     .replace(/ +/g, ' ')
     .trim();
