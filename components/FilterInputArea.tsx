@@ -74,7 +74,7 @@ function FilterInputArea(
       playStartListeningSound();
       // FIXME: Guard listening better, probably fork the hook and track this in a ref
       try {
-        listen();
+        listen({ lang: document.documentElement.lang ?? '' });
       } catch (e) {
         console.error(e);
       }
