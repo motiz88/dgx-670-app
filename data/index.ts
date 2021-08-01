@@ -221,7 +221,7 @@ function frequentWords(
 function getCategoryRank(category: string) {
   switch (category.toLowerCase()) {
     case 'megavoice':
-      return 10;
+      return -20;
     case 'main':
       return 5;
     case 'legacy':
