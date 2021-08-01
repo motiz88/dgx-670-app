@@ -150,7 +150,9 @@ function normalizeFull(voiceName: string) {
 }
 
 function prettify(voiceName: string) {
-  return normalizeFull(tokenize(voiceName).map(normalizeToken).join(' '));
+  return normalizeFull(tokenize(voiceName).map(normalizeToken).join(' '))
+    .replace(/ +/g, ' ')
+    .trim();
 }
 
 function frequentWords(
