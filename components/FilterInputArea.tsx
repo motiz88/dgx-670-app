@@ -21,6 +21,7 @@ import { useSpeechRecognition } from 'react-speech-kit';
 import useSound from 'use-sound';
 import useMidiTriggers from '../utils/useMidiTriggers';
 import { useMidiConfig } from './MidiConfig';
+import useImperativeFocus from '../utils/useImperativeFocus';
 
 function FilterInputArea(
   {
@@ -35,11 +36,14 @@ function FilterInputArea(
   useAutoFocus(inputRef);
   useSelectOnFocus(inputRef);
   useFocusOnHover(ref, inputRef);
-  useImperativeHandle(forwardedRef, () => ({
-    focus() {
-      inputRef.current?.focus();
-    },
-  }));
+  const { focus: focusInput } = useImperativeFocus(inputRef);
+  useImperativeHandle(
+    forwardedRef,
+    () => ({
+      focus: focusInput,
+    }),
+    [focusInput]
+  );
   useAnnounce(
     inputRef,
     // Empty announcement list - just interrupt any announcements currently playing
@@ -97,10 +101,16 @@ function FilterInputArea(
   const { midiTriggersEnabled } = useMidiConfig();
   const midiTriggers = useMemo(
     () => ({
-      onStartListening: handleLongPressDown,
-      onEndListening: handleLongPressUp,
+      onStartListening: () => {
+        focusInput();
+        handleLongPressDown();
+      },
+      onEndListening: () => {
+        focusInput();
+        handleLongPressUp();
+      },
     }),
-    [handleLongPressDown, handleLongPressUp]
+    [focusInput, handleLongPressDown, handleLongPressUp]
   );
   useMidiTriggers(midiTriggersEnabled ? midiTriggers : undefined);
   return (

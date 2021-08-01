@@ -3,6 +3,8 @@ import { Voice } from '../data';
 import styles from '../styles/Filter.module.css';
 import useFocusOnHover from '../utils/useFocusOnHover';
 import useAnnounce from '../utils/useAnnounce';
+import useImperativeFocus from '../utils/useImperativeFocus';
+import useFocused from '../utils/useFocused';
 
 function FilterResultRow(
   {
@@ -27,15 +29,21 @@ function FilterResultRow(
     { type: 'note', note: baseNote + 5, duration: 60000 / 120 / 4 },
     { type: 'note', note: baseNote + 7, duration: 60000 / 120 / 2 },
   ]);
-  useImperativeHandle(forwardedRef, () => ({
-    focus() {
-      ref.current?.focus();
-    },
-  }));
+  const { focus } = useImperativeFocus(ref);
+  useImperativeHandle(
+    forwardedRef,
+    () => ({
+      focus,
+    }),
+    [focus]
+  );
+  const isFocused = useFocused(ref);
   return (
     <button
       ref={ref}
-      className={[styles.filterResult].join(' ')}
+      className={[styles.filterResult, isFocused && styles.hasPersistentFocus]
+        .filter(Boolean)
+        .join(' ')}
       onClick={() => announce()}
     >
       <span className={styles.resultsVoiceName}>{voice.voiceNamePretty}</span>

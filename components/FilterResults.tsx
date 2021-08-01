@@ -12,6 +12,7 @@ import {
 } from 'react';
 import usePrevious from '../utils/usePrevious';
 import useArrowKeyNavigation from '../utils/useArrowKeyNavigation';
+import useImperativeFocus from '../utils/useImperativeFocus';
 
 function FilterResults(
   {
@@ -33,11 +34,14 @@ function FilterResults(
       ref.current!.scrollTop = 0;
     }
   }, [results, prevResults]);
-  useImperativeHandle(forwardedRef, () => ({
-    focus() {
-      firstRef.current?.focus();
-    },
-  }));
+  const { focus: focusFirst } = useImperativeFocus(firstRef);
+  useImperativeHandle(
+    forwardedRef,
+    () => ({
+      focus: focusFirst,
+    }),
+    [focusFirst]
+  );
   useArrowKeyNavigation(ref);
   const handleKeyDown = useCallback(
     (e) => {

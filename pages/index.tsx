@@ -17,25 +17,37 @@ import PermissionsOverlay from '../components/PermissionsOverlay';
 import Link from 'next/link';
 import Image from 'next/image';
 import gear from '../images/gear.svg';
+import useImperativeFocus from '../utils/useImperativeFocus';
+import { PersistentFocusProvider } from '../utils/PersistentFocus';
 
-export default function Home() {
+export default function HomeWrapper() {
+  return (
+    <PersistentFocusProvider>
+      <Home />
+    </PersistentFocusProvider>
+  );
+}
+
+function Home() {
   const [query] = useState('piano');
   const [filterQuery, setFilterQuery] = useState(query);
   const [isPending, startTransition] = useTransition();
   const results = useMemo(() => search(filterQuery), [filterQuery]);
   const resultsRef = useRef<{ focus(): void }>(null);
   const inputRef = useRef<{ focus(): void }>(null);
+  const { focus: focusInput } = useImperativeFocus(inputRef);
   useEffect(() => {
     if (!results.length) {
-      inputRef.current?.focus();
+      focusInput();
     }
-  }, [results]);
+  }, [focusInput, results]);
   const { speak } = useSpeechSynthesis();
+  const { focus: focusResults } = useImperativeFocus(resultsRef);
   const handleSubmit = useCallback(
     ({}) => {
       if (results.length) {
         speak({ text: 'OK. I found:' }).then(() => {
-          resultsRef.current?.focus();
+          focusResults();
         });
       } else if (!filterQuery.trim().length) {
         speak({ text: 'What would you like to play?' });
@@ -43,7 +55,7 @@ export default function Home() {
         speak({ text: "Sorry, I couldn't find: " + filterQuery });
       }
     },
-    [filterQuery, results.length, speak]
+    [filterQuery, results.length, speak, focusResults]
   );
   const submit = useSubmit<{
     source: 'speechRecognition' | 'form';
@@ -76,7 +88,7 @@ export default function Home() {
         results={results}
         ref={resultsRef}
         onExit={() => {
-          inputRef.current?.focus();
+          focusInput();
         }}
         isLoading={isPending}
       />

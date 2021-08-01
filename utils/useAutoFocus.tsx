@@ -1,4 +1,5 @@
 import { RefObject, useEffect, useState } from 'react';
+import useImperativeFocus from './useImperativeFocus';
 import useOnScreen from './useOnScreen';
 
 export default function useAutoFocus(
@@ -7,13 +8,14 @@ export default function useAutoFocus(
 ) {
   const isOnScreen = useOnScreen(ref, rootMargin);
   const [isFirst, setIsFirst] = useState(true);
+  const { focus } = useImperativeFocus(ref);
   useEffect(() => {
     if (!isFirst) {
       return;
     }
     if (ref.current && isOnScreen) {
       setIsFirst(false);
-      ref.current.focus();
+      focus();
     }
-  }, [isOnScreen, isFirst, ref]);
+  }, [isOnScreen, isFirst, ref, focus]);
 }

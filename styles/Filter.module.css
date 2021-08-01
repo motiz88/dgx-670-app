@@ -51,3 +51,7 @@
   opacity: 1;
   transition: opacity 0s 0s linear;
 }
+
+.hasPersistentFocus {
+  outline: 0.25rem solid blue;
+}
